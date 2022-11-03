@@ -1,0 +1,6146 @@
+[
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "Nicobars",
+   "Confirmed": 2560,
+   "Active": 852,
+   "Recovered": 84,
+   "Deceased": 78
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "North and Middle Andaman",
+   "Confirmed": 4567,
+   "Active": 5424,
+   "Recovered": 4571,
+   "Deceased": 54
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "South Andaman",
+   "Confirmed": 457,
+   "Active": 6523,
+   "Recovered": 547,
+   "Deceased": 52
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "Unknown",
+   "Confirmed": 10724,
+   "Active": 8,
+   "Recovered": 10584,
+   "Deceased": 132
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Anantapur",
+   "Confirmed": 177614,
+   "Active": 8016,
+   "Recovered": 168493,
+   "Deceased": 1105
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Chittoor",
+   "Confirmed": 272388,
+   "Active": 19567,
+   "Recovered": 250821,
+   "Deceased": 2000
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "East Godavari",
+   "Confirmed": 316589,
+   "Active": 6258,
+   "Recovered": 309031,
+   "Deceased": 1300
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Foreign Evacuees",
+   "Confirmed": 496,
+   "Active": 62,
+   "Recovered": 434,
+   "Deceased": 250
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Guntur",
+   "Confirmed": 203246,
+   "Active": 7598,
+   "Recovered": 194371,
+   "Deceased": 1277
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Krishna",
+   "Confirmed": 136888,
+   "Active": 1959,
+   "Recovered": 133435,
+   "Deceased": 1494
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Kurnool",
+   "Confirmed": 144246,
+   "Active": 8832,
+   "Recovered": 134546,
+   "Deceased": 868
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Other State",
+   "Confirmed": 2475,
+   "Active": 14,
+   "Recovered": 2461,
+   "Deceased": 45
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Prakasam",
+   "Confirmed": 155938,
+   "Active": 1352,
+   "Recovered": 153440,
+   "Deceased": 1146
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "S.P.S. Nellore",
+   "Confirmed": 164369,
+   "Active": 4711,
+   "Recovered": 158568,
+   "Deceased": 1090
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Srikakulam",
+   "Confirmed": 133954,
+   "Active": 5756,
+   "Recovered": 127400,
+   "Deceased": 798
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Unknown",
+   "Confirmed": 18409,
+   "Active": -106402,
+   "Recovered": 124808,
+   "Deceased": 1
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Visakhapatnam",
+   "Confirmed": 190938,
+   "Active": 23043,
+   "Recovered": 166710,
+   "Deceased": 1185
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Vizianagaram",
+   "Confirmed": 92244,
+   "Active": 6496,
+   "Recovered": 85068,
+   "Deceased": 680
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "West Godavari",
+   "Confirmed": 193383,
+   "Active": 5520,
+   "Recovered": 186728,
+   "Deceased": 1135
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Y.S.R. Kadapa",
+   "Confirmed": 134887,
+   "Active": 7765,
+   "Recovered": 126470,
+   "Deceased": 652
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Anjaw",
+   "Confirmed": 1150,
+   "Active": 12,
+   "Recovered": 1135,
+   "Deceased": 52
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Capital Complex",
+   "Confirmed": 3413,
+   "Active": 365,
+   "Recovered": 3045,
+   "Deceased": 127
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Changlang",
+   "Confirmed": 4261,
+   "Active": 1,
+   "Recovered": 4238,
+   "Deceased": 22
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "East Kameng",
+   "Confirmed": 1215,
+   "Active": 2,
+   "Recovered": 1213,
+   "Deceased": 0
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "East Siang",
+   "Confirmed": 3678,
+   "Active": 6,
+   "Recovered": 3654,
+   "Deceased": 18
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Kamle",
+   "Confirmed": 584,
+   "Active": 25,
+   "Recovered": 585,
+   "Deceased": 0
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Kra Daadi",
+   "Confirmed": 270,
+   "Active": 0,
+   "Recovered": 270,
+   "Deceased": 0
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Kurung Kumey",
+   "Confirmed": 526,
+   "Active": 0,
+   "Recovered": 525,
+   "Deceased": 1
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lepa Rada",
+   "Confirmed": 1043,
+   "Active": 15,
+   "Recovered": 1025,
+   "Deceased": 3
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lohit",
+   "Confirmed": 3518,
+   "Active": 47,
+   "Recovered": 3443,
+   "Deceased": 28
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Longding",
+   "Confirmed": 934,
+   "Active": 1,
+   "Recovered": 931,
+   "Deceased": 2
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lower Dibang Valley",
+   "Confirmed": 2860,
+   "Active": 15,
+   "Recovered": 2833,
+   "Deceased": 12
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lower Siang",
+   "Confirmed": 842,
+   "Active": 9,
+   "Recovered": 825,
+   "Deceased": 8
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lower Subansiri",
+   "Confirmed": 3604,
+   "Active": 16,
+   "Recovered": 3573,
+   "Deceased": 15
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Namsai",
+   "Confirmed": 2785,
+   "Active": 47,
+   "Recovered": 2721,
+   "Deceased": 17
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Pakke Kessang",
+   "Confirmed": 498,
+   "Active": -1,
+   "Recovered": 499,
+   "Deceased": 0
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Papum Pare",
+   "Confirmed": 18722,
+   "Active": -3,
+   "Recovered": 18627,
+   "Deceased": 98
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Shi Yomi",
+   "Confirmed": 303,
+   "Active": -3,
+   "Recovered": 306,
+   "Deceased": 0
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Siang",
+   "Confirmed": 443,
+   "Active": 2,
+   "Recovered": 438,
+   "Deceased": 3
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Tawang",
+   "Confirmed": 2929,
+   "Active": 9,
+   "Recovered": 2899,
+   "Deceased": 21
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Tirap",
+   "Confirmed": 1262,
+   "Active": 3,
+   "Recovered": 1254,
+   "Deceased": 5
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Upper Dibang Valley",
+   "Confirmed": 393,
+   "Active": 12,
+   "Recovered": 379,
+   "Deceased": 2
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Upper Siang",
+   "Confirmed": 1182,
+   "Active": 5,
+   "Recovered": 1176,
+   "Deceased": 1
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Upper Subansiri",
+   "Confirmed": 2023,
+   "Active": 0,
+   "Recovered": 2017,
+   "Deceased": 6
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "West Kameng",
+   "Confirmed": 4289,
+   "Active": 19,
+   "Recovered": 4255,
+   "Deceased": 15
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "West Siang",
+   "Confirmed": 2043,
+   "Active": 0,
+   "Recovered": 2037,
+   "Deceased": 6
+ },
+ {
+   "State": "Assam",
+   "District": "Baksa",
+   "Confirmed": 2653,
+   "Active": 2643,
+   "Recovered": 0,
+   "Deceased": 10
+ },
+ {
+   "State": "Assam",
+   "District": "Barpeta",
+   "Confirmed": 4318,
+   "Active": 4296,
+   "Recovered": 0,
+   "Deceased": 22
+ },
+ {
+   "State": "Assam",
+   "District": "Biswanath",
+   "Confirmed": 2001,
+   "Active": 1986,
+   "Recovered": 0,
+   "Deceased": 15
+ },
+ {
+   "State": "Assam",
+   "District": "Bongaigaon",
+   "Confirmed": 2072,
+   "Active": 2055,
+   "Recovered": 0,
+   "Deceased": 17
+ },
+ {
+   "State": "Assam",
+   "District": "Cachar",
+   "Confirmed": 5736,
+   "Active": 5698,
+   "Recovered": 0,
+   "Deceased": 38
+ },
+ {
+   "State": "Assam",
+   "District": "Charaideo",
+   "Confirmed": 1222,
+   "Active": 1214,
+   "Recovered": 0,
+   "Deceased": 8
+ },
+ {
+   "State": "Assam",
+   "District": "Chirang",
+   "Confirmed": 1071,
+   "Active": 1068,
+   "Recovered": 0,
+   "Deceased": 3
+ },
+ {
+   "State": "Assam",
+   "District": "Darrang",
+   "Confirmed": 3506,
+   "Active": 3483,
+   "Recovered": 0,
+   "Deceased": 23
+ },
+ {
+   "State": "Assam",
+   "District": "Dhemaji",
+   "Confirmed": 2888,
+   "Active": 2882,
+   "Recovered": 0,
+   "Deceased": 6
+ },
+ {
+   "State": "Assam",
+   "District": "Dhubri",
+   "Confirmed": 2865,
+   "Active": 2863,
+   "Recovered": 0,
+   "Deceased": 2
+ },
+ {
+   "State": "Assam",
+   "District": "Dibrugarh",
+   "Confirmed": 7435,
+   "Active": 7388,
+   "Recovered": 0,
+   "Deceased": 47
+ },
+ {
+   "State": "Assam",
+   "District": "Dima Hasao",
+   "Confirmed": 1224,
+   "Active": 1218,
+   "Recovered": 0,
+   "Deceased": 6
+ },
+ {
+   "State": "Assam",
+   "District": "Goalpara",
+   "Confirmed": 3979,
+   "Active": 3966,
+   "Recovered": 0,
+   "Deceased": 13
+ },
+ {
+   "State": "Assam",
+   "District": "Golaghat",
+   "Confirmed": 4004,
+   "Active": 3967,
+   "Recovered": 0,
+   "Deceased": 37
+ },
+ {
+   "State": "Assam",
+   "District": "Hailakandi",
+   "Confirmed": 1608,
+   "Active": 1604,
+   "Recovered": 0,
+   "Deceased": 4
+ },
+ {
+   "State": "Assam",
+   "District": "Hojai",
+   "Confirmed": 1822,
+   "Active": 1819,
+   "Recovered": 0,
+   "Deceased": 3
+ },
+ {
+   "State": "Assam",
+   "District": "Jorhat",
+   "Confirmed": 6545,
+   "Active": 6485,
+   "Recovered": 0,
+   "Deceased": 60
+ },
+ {
+   "State": "Assam",
+   "District": "Kamrup",
+   "Confirmed": 6433,
+   "Active": 6413,
+   "Recovered": 0,
+   "Deceased": 20
+ },
+ {
+   "State": "Assam",
+   "District": "Kamrup Metropolitan",
+   "Confirmed": 34786,
+   "Active": 34667,
+   "Recovered": 0,
+   "Deceased": 119
+ },
+ {
+   "State": "Assam",
+   "District": "Karbi Anglong",
+   "Confirmed": 2278,
+   "Active": 2268,
+   "Recovered": 0,
+   "Deceased": 10
+ },
+ {
+   "State": "Assam",
+   "District": "Karimganj",
+   "Confirmed": 2696,
+   "Active": 2687,
+   "Recovered": 0,
+   "Deceased": 9
+ },
+ {
+   "State": "Assam",
+   "District": "Kokrajhar",
+   "Confirmed": 1985,
+   "Active": 1971,
+   "Recovered": 0,
+   "Deceased": 14
+ },
+ {
+   "State": "Assam",
+   "District": "Lakhimpur",
+   "Confirmed": 4233,
+   "Active": 4221,
+   "Recovered": 0,
+   "Deceased": 12
+ },
+ {
+   "State": "Assam",
+   "District": "Majuli",
+   "Confirmed": 404,
+   "Active": 402,
+   "Recovered": 0,
+   "Deceased": 2
+ },
+ {
+   "State": "Assam",
+   "District": "Morigaon",
+   "Confirmed": 2416,
+   "Active": 2408,
+   "Recovered": 0,
+   "Deceased": 8
+ },
+ {
+   "State": "Assam",
+   "District": "Nagaon",
+   "Confirmed": 4518,
+   "Active": 4495,
+   "Recovered": 0,
+   "Deceased": 23
+ },
+ {
+   "State": "Assam",
+   "District": "Nalbari",
+   "Confirmed": 2869,
+   "Active": 2844,
+   "Recovered": 0,
+   "Deceased": 25
+ },
+ {
+   "State": "Assam",
+   "District": "Sivasagar",
+   "Confirmed": 3903,
+   "Active": 3871,
+   "Recovered": 0,
+   "Deceased": 32
+ },
+ {
+   "State": "Assam",
+   "District": "Sonitpur",
+   "Confirmed": 4067,
+   "Active": 4015,
+   "Recovered": 0,
+   "Deceased": 52
+ },
+ {
+   "State": "Assam",
+   "District": "South Salmara Mankachar",
+   "Confirmed": 357,
+   "Active": 357,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Assam",
+   "District": "Tinsukia",
+   "Confirmed": 4729,
+   "Active": 4706,
+   "Recovered": 0,
+   "Deceased": 23
+ },
+ {
+   "State": "Assam",
+   "District": "Udalguri",
+   "Confirmed": 2036,
+   "Active": 1915,
+   "Recovered": 110,
+   "Deceased": 11
+ },
+ {
+   "State": "Assam",
+   "District": "West Karbi Anglong",
+   "Confirmed": 432,
+   "Active": 430,
+   "Recovered": 0,
+   "Deceased": 2
+ },
+ {
+   "State": "Bihar",
+   "District": "Araria",
+   "Confirmed": 16637,
+   "Active": 236,
+   "Recovered": 16284,
+   "Deceased": 117
+ },
+ {
+   "State": "Bihar",
+   "District": "Arwal",
+   "Confirmed": 8429,
+   "Active": 175,
+   "Recovered": 8179,
+   "Deceased": 75
+ },
+ {
+   "State": "Bihar",
+   "District": "Aurangabad",
+   "Confirmed": 21489,
+   "Active": 214,
+   "Recovered": 21196,
+   "Deceased": 79
+ },
+ {
+   "State": "Bihar",
+   "District": "Banka",
+   "Confirmed": 9154,
+   "Active": 282,
+   "Recovered": 8753,
+   "Deceased": 119
+ },
+ {
+   "State": "Bihar",
+   "District": "Begusarai",
+   "Confirmed": 31686,
+   "Active": 754,
+   "Recovered": 30472,
+   "Deceased": 460
+ },
+ {
+   "State": "Bihar",
+   "District": "Bhagalpur",
+   "Confirmed": 30429,
+   "Active": 604,
+   "Recovered": 29504,
+   "Deceased": 321
+ },
+ {
+   "State": "Bihar",
+   "District": "Bhojpur",
+   "Confirmed": 12104,
+   "Active": 217,
+   "Recovered": 11726,
+   "Deceased": 161
+ },
+ {
+   "State": "Bihar",
+   "District": "Buxar",
+   "Confirmed": 10409,
+   "Active": 206,
+   "Recovered": 10018,
+   "Deceased": 185
+ },
+ {
+   "State": "Bihar",
+   "District": "Darbhanga",
+   "Confirmed": 13757,
+   "Active": 514,
+   "Recovered": 12871,
+   "Deceased": 372
+ },
+ {
+   "State": "Bihar",
+   "District": "East Champaran",
+   "Confirmed": 21270,
+   "Active": 427,
+   "Recovered": 20402,
+   "Deceased": 441
+ },
+ {
+   "State": "Bihar",
+   "District": "Gaya",
+   "Confirmed": 37937,
+   "Active": 312,
+   "Recovered": 37335,
+   "Deceased": 290
+ },
+ {
+   "State": "Bihar",
+   "District": "Gopalganj",
+   "Confirmed": 17925,
+   "Active": 197,
+   "Recovered": 17630,
+   "Deceased": 98
+ },
+ {
+   "State": "Bihar",
+   "District": "Jamui",
+   "Confirmed": 11076,
+   "Active": 180,
+   "Recovered": 10789,
+   "Deceased": 107
+ },
+ {
+   "State": "Bihar",
+   "District": "Jehanabad",
+   "Confirmed": 12213,
+   "Active": 68,
+   "Recovered": 12035,
+   "Deceased": 110
+ },
+ {
+   "State": "Bihar",
+   "District": "Kaimur",
+   "Confirmed": 5852,
+   "Active": 113,
+   "Recovered": 5592,
+   "Deceased": 147
+ },
+ {
+   "State": "Bihar",
+   "District": "Katihar",
+   "Confirmed": 20057,
+   "Active": 395,
+   "Recovered": 19567,
+   "Deceased": 95
+ },
+ {
+   "State": "Bihar",
+   "District": "Khagaria",
+   "Confirmed": 11092,
+   "Active": 166,
+   "Recovered": 10836,
+   "Deceased": 90
+ },
+ {
+   "State": "Bihar",
+   "District": "Kishanganj",
+   "Confirmed": 11381,
+   "Active": 122,
+   "Recovered": 11190,
+   "Deceased": 69
+ },
+ {
+   "State": "Bihar",
+   "District": "Lakhisarai",
+   "Confirmed": 8657,
+   "Active": 106,
+   "Recovered": 8448,
+   "Deceased": 103
+ },
+ {
+   "State": "Bihar",
+   "District": "Madhepura",
+   "Confirmed": 15210,
+   "Active": 569,
+   "Recovered": 14526,
+   "Deceased": 115
+ },
+ {
+   "State": "Bihar",
+   "District": "Madhubani",
+   "Confirmed": 20395,
+   "Active": 322,
+   "Recovered": 19731,
+   "Deceased": 342
+ },
+ {
+   "State": "Bihar",
+   "District": "Munger",
+   "Confirmed": 18348,
+   "Active": 536,
+   "Recovered": 17653,
+   "Deceased": 159
+ },
+ {
+   "State": "Bihar",
+   "District": "Muzaffarpur",
+   "Confirmed": 36940,
+   "Active": 832,
+   "Recovered": 35477,
+   "Deceased": 631
+ },
+ {
+   "State": "Bihar",
+   "District": "Nalanda",
+   "Confirmed": 25829,
+   "Active": 231,
+   "Recovered": 25124,
+   "Deceased": 474
+ },
+ {
+   "State": "Bihar",
+   "District": "Nawada",
+   "Confirmed": 11200,
+   "Active": 95,
+   "Recovered": 10923,
+   "Deceased": 182
+ },
+ {
+   "State": "Bihar",
+   "District": "Other State",
+   "Confirmed": 1197,
+   "Active": 1197,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Bihar",
+   "District": "Patna",
+   "Confirmed": 188348,
+   "Active": 3001,
+   "Recovered": 182951,
+   "Deceased": 2396
+ },
+ {
+   "State": "Bihar",
+   "District": "Purnia",
+   "Confirmed": 28370,
+   "Active": 775,
+   "Recovered": 27408,
+   "Deceased": 187
+ },
+ {
+   "State": "Bihar",
+   "District": "Rohtas",
+   "Confirmed": 15869,
+   "Active": 241,
+   "Recovered": 15354,
+   "Deceased": 274
+ },
+ {
+   "State": "Bihar",
+   "District": "Saharsa",
+   "Confirmed": 20849,
+   "Active": 389,
+   "Recovered": 20321,
+   "Deceased": 139
+ },
+ {
+   "State": "Bihar",
+   "District": "Samastipur",
+   "Confirmed": 25239,
+   "Active": 1171,
+   "Recovered": 23910,
+   "Deceased": 158
+ },
+ {
+   "State": "Bihar",
+   "District": "Saran",
+   "Confirmed": 26575,
+   "Active": 492,
+   "Recovered": 25824,
+   "Deceased": 259
+ },
+ {
+   "State": "Bihar",
+   "District": "Sheikhpura",
+   "Confirmed": 8173,
+   "Active": 77,
+   "Recovered": 8021,
+   "Deceased": 75
+ },
+ {
+   "State": "Bihar",
+   "District": "Sheohar",
+   "Confirmed": 4784,
+   "Active": 99,
+   "Recovered": 4649,
+   "Deceased": 36
+ },
+ {
+   "State": "Bihar",
+   "District": "Sitamarhi",
+   "Confirmed": 10768,
+   "Active": 208,
+   "Recovered": 10430,
+   "Deceased": 130
+ },
+ {
+   "State": "Bihar",
+   "District": "Siwan",
+   "Confirmed": 16698,
+   "Active": 234,
+   "Recovered": 16289,
+   "Deceased": 175
+ },
+ {
+   "State": "Bihar",
+   "District": "Supaul",
+   "Confirmed": 18834,
+   "Active": 193,
+   "Recovered": 18511,
+   "Deceased": 130
+ },
+ {
+   "State": "Bihar",
+   "District": "Unknown",
+   "Confirmed": 516,
+   "Active": -92573,
+   "Recovered": 90665,
+   "Deceased": 2424
+ },
+ {
+   "State": "Bihar",
+   "District": "Vaishali",
+   "Confirmed": 22658,
+   "Active": 333,
+   "Recovered": 22125,
+   "Deceased": 199
+ },
+ {
+   "State": "Bihar",
+   "District": "West Champaran",
+   "Confirmed": 23066,
+   "Active": 315,
+   "Recovered": 22391,
+   "Deceased": 360
+ },
+ {
+   "State": "Chandigarh",
+   "District": "Chandigarh",
+   "Confirmed": 100604,
+   "Active": 600,
+   "Recovered": 98826,
+   "Deceased": 1178
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Balod",
+   "Confirmed": 30581,
+   "Active": -19,
+   "Recovered": 30183,
+   "Deceased": 417
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Baloda Bazar",
+   "Confirmed": 46268,
+   "Active": 11,
+   "Recovered": 45757,
+   "Deceased": 500
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Balrampur",
+   "Confirmed": 22847,
+   "Active": 0,
+   "Recovered": 22725,
+   "Deceased": 122
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bametara",
+   "Confirmed": 22719,
+   "Active": 11,
+   "Recovered": 22459,
+   "Deceased": 249
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bastar",
+   "Confirmed": 24684,
+   "Active": 4,
+   "Recovered": 24479,
+   "Deceased": 201
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bijapur",
+   "Confirmed": 9877,
+   "Active": -8,
+   "Recovered": 9827,
+   "Deceased": 58
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bilaspur",
+   "Confirmed": 77373,
+   "Active": 15,
+   "Recovered": 76116,
+   "Deceased": 1242
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Dakshin Bastar Dantewada",
+   "Confirmed": 12263,
+   "Active": 0,
+   "Recovered": 12234,
+   "Deceased": 29
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Dhamtari",
+   "Confirmed": 32648,
+   "Active": 4,
+   "Recovered": 32078,
+   "Deceased": 566
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Durg",
+   "Confirmed": 119790,
+   "Active": 218,
+   "Recovered": 117661,
+   "Deceased": 1911
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Gariaband",
+   "Confirmed": 20759,
+   "Active": 5,
+   "Recovered": 20557,
+   "Deceased": 197
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Gaurela Pendra Marwahi",
+   "Confirmed": 13574,
+   "Active": 7,
+   "Recovered": 13418,
+   "Deceased": 149
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Janjgir Champa",
+   "Confirmed": 64139,
+   "Active": -13,
+   "Recovered": 63283,
+   "Deceased": 869
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Jashpur",
+   "Confirmed": 32027,
+   "Active": 1,
+   "Recovered": 31810,
+   "Deceased": 216
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Kabeerdham",
+   "Confirmed": 25142,
+   "Active": 7,
+   "Recovered": 24866,
+   "Deceased": 269
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Kondagaon",
+   "Confirmed": 16113,
+   "Active": 0,
+   "Recovered": 16011,
+   "Deceased": 102
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Korba",
+   "Confirmed": 63989,
+   "Active": 3,
+   "Recovered": 63383,
+   "Deceased": 603
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Koriya",
+   "Confirmed": 29936,
+   "Active": -2,
+   "Recovered": 29756,
+   "Deceased": 182
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Mahasamund",
+   "Confirmed": 33898,
+   "Active": 11,
+   "Recovered": 33507,
+   "Deceased": 380
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Mungeli",
+   "Confirmed": 26271,
+   "Active": 3,
+   "Recovered": 26098,
+   "Deceased": 170
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Narayanpur",
+   "Confirmed": 5097,
+   "Active": 3,
+   "Recovered": 5080,
+   "Deceased": 14
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Other State",
+   "Confirmed": 853,
+   "Active": 1,
+   "Recovered": 721,
+   "Deceased": 131
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Raigarh",
+   "Confirmed": 74300,
+   "Active": 4,
+   "Recovered": 73295,
+   "Deceased": 1001
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Raipur",
+   "Confirmed": 198604,
+   "Active": 21,
+   "Recovered": 195315,
+   "Deceased": 3268
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Rajnandgaon",
+   "Confirmed": 65091,
+   "Active": 14,
+   "Recovered": 64526,
+   "Deceased": 551
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Sukma",
+   "Confirmed": 9019,
+   "Active": -7,
+   "Recovered": 9005,
+   "Deceased": 21
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Surajpur",
+   "Confirmed": 32306,
+   "Active": 2,
+   "Recovered": 32074,
+   "Deceased": 230
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Surguja",
+   "Confirmed": 38778,
+   "Active": -2,
+   "Recovered": 38529,
+   "Deceased": 251
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Unknown",
+   "Confirmed": 4,
+   "Active": 4,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Uttar Bastar Kanker",
+   "Confirmed": 28575,
+   "Active": 1,
+   "Recovered": 28335,
+   "Deceased": 239
+ },
+ {
+   "State": "Delhi",
+   "District": "Delhi",
+   "Confirmed": 2005848,
+   "Active": 161,
+   "Recovered": 1979181,
+   "Deceased": 26506
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Dadra and Nagar Haveli",
+   "Confirmed": 6341,
+   "Active": -7,
+   "Recovered": 6340,
+   "Deceased": 3
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Daman",
+   "Confirmed": 3933,
+   "Active": -166,
+   "Recovered": 4072,
+   "Deceased": 1
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Diu",
+   "Confirmed": 1240,
+   "Active": -14,
+   "Recovered": 1254,
+   "Deceased": 0
+ },
+ {
+   "State": "Goa",
+   "District": "North Goa",
+   "Confirmed": 0,
+   "Active": 0,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Goa",
+   "District": "South Goa",
+   "Confirmed": 0,
+   "Active": 0,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Goa",
+   "District": "Unknown",
+   "Confirmed": 257449,
+   "Active": 171,
+   "Recovered": 253518,
+   "Deceased": 3760
+ },
+ {
+   "State": "Gujarat",
+   "District": "Ahmedabad",
+   "Confirmed": 394385,
+   "Active": 609,
+   "Recovered": 390124,
+   "Deceased": 3652
+ },
+ {
+   "State": "Gujarat",
+   "District": "Amreli",
+   "Confirmed": 13300,
+   "Active": -69,
+   "Recovered": 13264,
+   "Deceased": 105
+ },
+ {
+   "State": "Gujarat",
+   "District": "Anand",
+   "Confirmed": 15572,
+   "Active": 142,
+   "Recovered": 15377,
+   "Deceased": 53
+ },
+ {
+   "State": "Gujarat",
+   "District": "Aravalli",
+   "Confirmed": 5896,
+   "Active": -46,
+   "Recovered": 5860,
+   "Deceased": 82
+ },
+ {
+   "State": "Gujarat",
+   "District": "Banaskantha",
+   "Confirmed": 18615,
+   "Active": -289,
+   "Recovered": 18739,
+   "Deceased": 165
+ },
+ {
+   "State": "Gujarat",
+   "District": "Bharuch",
+   "Confirmed": 17489,
+   "Active": -75,
+   "Recovered": 17411,
+   "Deceased": 153
+ },
+ {
+   "State": "Gujarat",
+   "District": "Bhavnagar",
+   "Confirmed": 29677,
+   "Active": 251,
+   "Recovered": 29062,
+   "Deceased": 364
+ },
+ {
+   "State": "Gujarat",
+   "District": "Botad",
+   "Confirmed": 2375,
+   "Active": -2,
+   "Recovered": 2329,
+   "Deceased": 48
+ },
+ {
+   "State": "Gujarat",
+   "District": "Chhota Udaipur",
+   "Confirmed": 3709,
+   "Active": -58,
+   "Recovered": 3729,
+   "Deceased": 38
+ },
+ {
+   "State": "Gujarat",
+   "District": "Dahod",
+   "Confirmed": 11204,
+   "Active": -50,
+   "Recovered": 11209,
+   "Deceased": 45
+ },
+ {
+   "State": "Gujarat",
+   "District": "Dang",
+   "Confirmed": 1236,
+   "Active": -40,
+   "Recovered": 1258,
+   "Deceased": 18
+ },
+ {
+   "State": "Gujarat",
+   "District": "Devbhumi Dwarka",
+   "Confirmed": 5336,
+   "Active": 38,
+   "Recovered": 5209,
+   "Deceased": 89
+ },
+ {
+   "State": "Gujarat",
+   "District": "Gandhinagar",
+   "Confirmed": 36648,
+   "Active": -224,
+   "Recovered": 36641,
+   "Deceased": 231
+ },
+ {
+   "State": "Gujarat",
+   "District": "Gir Somnath",
+   "Confirmed": 9722,
+   "Active": 68,
+   "Recovered": 9584,
+   "Deceased": 70
+ },
+ {
+   "State": "Gujarat",
+   "District": "Jamnagar",
+   "Confirmed": 42223,
+   "Active": 278,
+   "Recovered": 41424,
+   "Deceased": 521
+ },
+ {
+   "State": "Gujarat",
+   "District": "Junagadh",
+   "Confirmed": 22651,
+   "Active": 148,
+   "Recovered": 22231,
+   "Deceased": 272
+ },
+ {
+   "State": "Gujarat",
+   "District": "Kheda",
+   "Confirmed": 14563,
+   "Active": -114,
+   "Recovered": 14623,
+   "Deceased": 54
+ },
+ {
+   "State": "Gujarat",
+   "District": "Kutch",
+   "Confirmed": 19685,
+   "Active": -14,
+   "Recovered": 19553,
+   "Deceased": 146
+ },
+ {
+   "State": "Gujarat",
+   "District": "Mahisagar",
+   "Confirmed": 8856,
+   "Active": 20,
+   "Recovered": 8761,
+   "Deceased": 75
+ },
+ {
+   "State": "Gujarat",
+   "District": "Mehsana",
+   "Confirmed": 32590,
+   "Active": -232,
+   "Recovered": 32627,
+   "Deceased": 195
+ },
+ {
+   "State": "Gujarat",
+   "District": "Morbi",
+   "Confirmed": 10895,
+   "Active": -207,
+   "Recovered": 11006,
+   "Deceased": 96
+ },
+ {
+   "State": "Gujarat",
+   "District": "Narmada",
+   "Confirmed": 6556,
+   "Active": -70,
+   "Recovered": 6611,
+   "Deceased": 15
+ },
+ {
+   "State": "Gujarat",
+   "District": "Navsari",
+   "Confirmed": 12297,
+   "Active": 91,
+   "Recovered": 12168,
+   "Deceased": 38
+ },
+ {
+   "State": "Gujarat",
+   "District": "Other State",
+   "Confirmed": 163,
+   "Active": 1,
+   "Recovered": 159,
+   "Deceased": 3
+ },
+ {
+   "State": "Gujarat",
+   "District": "Panchmahal",
+   "Confirmed": 13530,
+   "Active": -149,
+   "Recovered": 13597,
+   "Deceased": 82
+ },
+ {
+   "State": "Gujarat",
+   "District": "Patan",
+   "Confirmed": 16517,
+   "Active": -277,
+   "Recovered": 16665,
+   "Deceased": 129
+ },
+ {
+   "State": "Gujarat",
+   "District": "Porbandar",
+   "Confirmed": 4388,
+   "Active": -79,
+   "Recovered": 4442,
+   "Deceased": 25
+ },
+ {
+   "State": "Gujarat",
+   "District": "Rajkot",
+   "Confirmed": 85074,
+   "Active": -652,
+   "Recovered": 84922,
+   "Deceased": 804
+ },
+ {
+   "State": "Gujarat",
+   "District": "Sabarkantha",
+   "Confirmed": 12101,
+   "Active": -127,
+   "Recovered": 12064,
+   "Deceased": 164
+ },
+ {
+   "State": "Gujarat",
+   "District": "Surat",
+   "Confirmed": 205964,
+   "Active": 3663,
+   "Recovered": 200230,
+   "Deceased": 2071
+ },
+ {
+   "State": "Gujarat",
+   "District": "Surendranagar",
+   "Confirmed": 10125,
+   "Active": -79,
+   "Recovered": 10064,
+   "Deceased": 139
+ },
+ {
+   "State": "Gujarat",
+   "District": "Tapi",
+   "Confirmed": 5785,
+   "Active": -119,
+   "Recovered": 5873,
+   "Deceased": 31
+ },
+ {
+   "State": "Gujarat",
+   "District": "Vadodara",
+   "Confirmed": 140395,
+   "Active": -1925,
+   "Recovered": 141404,
+   "Deceased": 916
+ },
+ {
+   "State": "Gujarat",
+   "District": "Valsad",
+   "Confirmed": 13492,
+   "Active": 317,
+   "Recovered": 13084,
+   "Deceased": 91
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Bilaspur",
+   "Confirmed": 19795,
+   "Active": 121,
+   "Recovered": 19578,
+   "Deceased": 95
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Chamba",
+   "Confirmed": 18006,
+   "Active": 49,
+   "Recovered": 17773,
+   "Deceased": 182
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Hamirpur",
+   "Confirmed": 25400,
+   "Active": 61,
+   "Recovered": 25019,
+   "Deceased": 319
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Kangra",
+   "Confirmed": 70092,
+   "Active": 301,
+   "Recovered": 68575,
+   "Deceased": 1212
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Kinnaur",
+   "Confirmed": 5074,
+   "Active": 26,
+   "Recovered": 5007,
+   "Deceased": 41
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Kullu",
+   "Confirmed": 13207,
+   "Active": 94,
+   "Recovered": 12944,
+   "Deceased": 167
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Lahaul and Spiti",
+   "Confirmed": 3491,
+   "Active": 8,
+   "Recovered": 3465,
+   "Deceased": 18
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Mandi",
+   "Confirmed": 42656,
+   "Active": 249,
+   "Recovered": 41912,
+   "Deceased": 495
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Shimla",
+   "Confirmed": 39588,
+   "Active": 71,
+   "Recovered": 38801,
+   "Deceased": 715
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Sirmaur",
+   "Confirmed": 21125,
+   "Active": 94,
+   "Recovered": 20806,
+   "Deceased": 225
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Solan",
+   "Confirmed": 31855,
+   "Active": 209,
+   "Recovered": 31310,
+   "Deceased": 336
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Una",
+   "Confirmed": 19724,
+   "Active": 112,
+   "Recovered": 19331,
+   "Deceased": 279
+ },
+ {
+   "State": "Haryana",
+   "District": "Ambala",
+   "Confirmed": 43034,
+   "Active": -77,
+   "Recovered": 42568,
+   "Deceased": 543
+ },
+ {
+   "State": "Haryana",
+   "District": "Bhiwani",
+   "Confirmed": 27190,
+   "Active": 2,
+   "Recovered": 26521,
+   "Deceased": 667
+ },
+ {
+   "State": "Haryana",
+   "District": "Charkhi Dadri",
+   "Confirmed": 8076,
+   "Active": 5,
+   "Recovered": 7924,
+   "Deceased": 147
+ },
+ {
+   "State": "Haryana",
+   "District": "Faridabad",
+   "Confirmed": 135679,
+   "Active": 27,
+   "Recovered": 134911,
+   "Deceased": 741
+ },
+ {
+   "State": "Haryana",
+   "District": "Fatehabad",
+   "Confirmed": 20305,
+   "Active": 6,
+   "Recovered": 19799,
+   "Deceased": 500
+ },
+ {
+   "State": "Haryana",
+   "District": "Foreign Evacuees",
+   "Confirmed": 21,
+   "Active": 21,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Haryana",
+   "District": "Gurugram",
+   "Confirmed": 300637,
+   "Active": 227,
+   "Recovered": 299380,
+   "Deceased": 1030
+ },
+ {
+   "State": "Haryana",
+   "District": "Hisar",
+   "Confirmed": 63862,
+   "Active": -9,
+   "Recovered": 62689,
+   "Deceased": 1182
+ },
+ {
+   "State": "Haryana",
+   "District": "Italians",
+   "Confirmed": 0,
+   "Active": 0,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Haryana",
+   "District": "Jhajjar",
+   "Confirmed": 24111,
+   "Active": 15,
+   "Recovered": 23741,
+   "Deceased": 355
+ },
+ {
+   "State": "Haryana",
+   "District": "Jind",
+   "Confirmed": 25415,
+   "Active": 4,
+   "Recovered": 24867,
+   "Deceased": 544
+ },
+ {
+   "State": "Haryana",
+   "District": "Kaithal",
+   "Confirmed": 15211,
+   "Active": 5,
+   "Recovered": 14830,
+   "Deceased": 376
+ },
+ {
+   "State": "Haryana",
+   "District": "Karnal",
+   "Confirmed": 49910,
+   "Active": 4,
+   "Recovered": 49306,
+   "Deceased": 600
+ },
+ {
+   "State": "Haryana",
+   "District": "Kurukshetra",
+   "Confirmed": 27831,
+   "Active": 5,
+   "Recovered": 27418,
+   "Deceased": 408
+ },
+ {
+   "State": "Haryana",
+   "District": "Mahendragarh",
+   "Confirmed": 25014,
+   "Active": 7,
+   "Recovered": 24843,
+   "Deceased": 164
+ },
+ {
+   "State": "Haryana",
+   "District": "Nuh",
+   "Confirmed": 6176,
+   "Active": -2,
+   "Recovered": 6039,
+   "Deceased": 139
+ },
+ {
+   "State": "Haryana",
+   "District": "Palwal",
+   "Confirmed": 13660,
+   "Active": 4,
+   "Recovered": 13481,
+   "Deceased": 175
+ },
+ {
+   "State": "Haryana",
+   "District": "Panchkula",
+   "Confirmed": 48383,
+   "Active": 16,
+   "Recovered": 47946,
+   "Deceased": 421
+ },
+ {
+   "State": "Haryana",
+   "District": "Panipat",
+   "Confirmed": 36760,
+   "Active": 5,
+   "Recovered": 36078,
+   "Deceased": 677
+ },
+ {
+   "State": "Haryana",
+   "District": "Rewari",
+   "Confirmed": 24988,
+   "Active": 5,
+   "Recovered": 24759,
+   "Deceased": 224
+ },
+ {
+   "State": "Haryana",
+   "District": "Rohtak",
+   "Confirmed": 33205,
+   "Active": 36,
+   "Recovered": 32632,
+   "Deceased": 537
+ },
+ {
+   "State": "Haryana",
+   "District": "Sirsa",
+   "Confirmed": 34213,
+   "Active": 2,
+   "Recovered": 33666,
+   "Deceased": 545
+ },
+ {
+   "State": "Haryana",
+   "District": "Sonipat",
+   "Confirmed": 59571,
+   "Active": 7,
+   "Recovered": 59288,
+   "Deceased": 276
+ },
+ {
+   "State": "Haryana",
+   "District": "Unknown",
+   "Confirmed": 0,
+   "Active": -7,
+   "Recovered": 7,
+   "Deceased": 0
+ },
+ {
+   "State": "Haryana",
+   "District": "Yamunanagar",
+   "Confirmed": 32702,
+   "Active": 3,
+   "Recovered": 32241,
+   "Deceased": 458
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Bokaro",
+   "Confirmed": 24087,
+   "Active": 54,
+   "Recovered": 23734,
+   "Deceased": 299
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Chatra",
+   "Confirmed": 7909,
+   "Active": 28,
+   "Recovered": 7827,
+   "Deceased": 54
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Deoghar",
+   "Confirmed": 14673,
+   "Active": -3,
+   "Recovered": 14557,
+   "Deceased": 119
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Dhanbad",
+   "Confirmed": 20020,
+   "Active": 83,
+   "Recovered": 19538,
+   "Deceased": 399
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Dumka",
+   "Confirmed": 7786,
+   "Active": 1,
+   "Recovered": 7738,
+   "Deceased": 47
+ },
+ {
+   "State": "Jharkhand",
+   "District": "East Singhbhum",
+   "Confirmed": 71032,
+   "Active": 185,
+   "Recovered": 69722,
+   "Deceased": 1125
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Garhwa",
+   "Confirmed": 7836,
+   "Active": 15,
+   "Recovered": 7727,
+   "Deceased": 94
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Giridih",
+   "Confirmed": 9515,
+   "Active": 3,
+   "Recovered": 9381,
+   "Deceased": 131
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Godda",
+   "Confirmed": 7616,
+   "Active": 1,
+   "Recovered": 7527,
+   "Deceased": 88
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Gumla",
+   "Confirmed": 11069,
+   "Active": 15,
+   "Recovered": 11012,
+   "Deceased": 42
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Hazaribagh",
+   "Confirmed": 22950,
+   "Active": 10,
+   "Recovered": 22747,
+   "Deceased": 193
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Jamtara",
+   "Confirmed": 6175,
+   "Active": -1,
+   "Recovered": 6115,
+   "Deceased": 61
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Khunti",
+   "Confirmed": 9200,
+   "Active": 26,
+   "Recovered": 9075,
+   "Deceased": 99
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Koderma",
+   "Confirmed": 14970,
+   "Active": 55,
+   "Recovered": 14774,
+   "Deceased": 141
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Latehar",
+   "Confirmed": 8956,
+   "Active": -24,
+   "Recovered": 8922,
+   "Deceased": 58
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Lohardaga",
+   "Confirmed": 7683,
+   "Active": 14,
+   "Recovered": 7580,
+   "Deceased": 89
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Pakur",
+   "Confirmed": 3043,
+   "Active": 4,
+   "Recovered": 3027,
+   "Deceased": 12
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Palamu",
+   "Confirmed": 14342,
+   "Active": 12,
+   "Recovered": 14219,
+   "Deceased": 111
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Ramgarh",
+   "Confirmed": 16201,
+   "Active": 48,
+   "Recovered": 15952,
+   "Deceased": 201
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Ranchi",
+   "Confirmed": 115405,
+   "Active": 349,
+   "Recovered": 113449,
+   "Deceased": 1607
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Sahibganj",
+   "Confirmed": 5999,
+   "Active": 1,
+   "Recovered": 5956,
+   "Deceased": 42
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Saraikela-Kharsawan",
+   "Confirmed": 8268,
+   "Active": 13,
+   "Recovered": 8175,
+   "Deceased": 80
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Simdega",
+   "Confirmed": 10376,
+   "Active": 13,
+   "Recovered": 10270,
+   "Deceased": 93
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Unknown",
+   "Confirmed": 1225,
+   "Active": -660,
+   "Recovered": 1878,
+   "Deceased": 7
+ },
+ {
+   "State": "Jharkhand",
+   "District": "West Singhbhum",
+   "Confirmed": 15829,
+   "Active": 12,
+   "Recovered": 15680,
+   "Deceased": 137
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Anantnag",
+   "Confirmed": 23340,
+   "Active": 70,
+   "Recovered": 23053,
+   "Deceased": 217
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Bandipora",
+   "Confirmed": 14140,
+   "Active": -32,
+   "Recovered": 14060,
+   "Deceased": 112
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Baramulla",
+   "Confirmed": 41555,
+   "Active": 37,
+   "Recovered": 41217,
+   "Deceased": 301
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Budgam",
+   "Confirmed": 36683,
+   "Active": 37,
+   "Recovered": 36417,
+   "Deceased": 229
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Doda",
+   "Confirmed": 11836,
+   "Active": 57,
+   "Recovered": 11639,
+   "Deceased": 140
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Ganderbal",
+   "Confirmed": 14025,
+   "Active": 23,
+   "Recovered": 13919,
+   "Deceased": 83
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Jammu",
+   "Confirmed": 81137,
+   "Active": 102,
+   "Recovered": 79803,
+   "Deceased": 1232
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kathua",
+   "Confirmed": 11797,
+   "Active": 17,
+   "Recovered": 11611,
+   "Deceased": 169
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kishtwar",
+   "Confirmed": 6213,
+   "Active": 8,
+   "Recovered": 6159,
+   "Deceased": 46
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kulgam",
+   "Confirmed": 16941,
+   "Active": 9,
+   "Recovered": 16812,
+   "Deceased": 120
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kupwara",
+   "Confirmed": 23080,
+   "Active": 143,
+   "Recovered": 22764,
+   "Deceased": 173
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Pulwama",
+   "Confirmed": 18905,
+   "Active": 21,
+   "Recovered": 18684,
+   "Deceased": 200
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Punch",
+   "Confirmed": 7950,
+   "Active": 11,
+   "Recovered": 7829,
+   "Deceased": 110
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Rajouri",
+   "Confirmed": 13101,
+   "Active": 2,
+   "Recovered": 12851,
+   "Deceased": 248
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Ramban",
+   "Confirmed": 8420,
+   "Active": -32,
+   "Recovered": 8383,
+   "Deceased": 69
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Reasi",
+   "Confirmed": 8747,
+   "Active": -8,
+   "Recovered": 8707,
+   "Deceased": 48
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Samba",
+   "Confirmed": 9373,
+   "Active": 4,
+   "Recovered": 9241,
+   "Deceased": 128
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Shopiyan",
+   "Confirmed": 6379,
+   "Active": 16,
+   "Recovered": 6303,
+   "Deceased": 60
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Srinagar",
+   "Confirmed": 110115,
+   "Active": 286,
+   "Recovered": 108931,
+   "Deceased": 898
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Udhampur",
+   "Confirmed": 15268,
+   "Active": 18,
+   "Recovered": 15104,
+   "Deceased": 146
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bagalkote",
+   "Confirmed": 41174,
+   "Active": 4,
+   "Recovered": 40801,
+   "Deceased": 369
+ },
+ {
+   "State": "Karnataka",
+   "District": "Ballari",
+   "Confirmed": 117204,
+   "Active": 5,
+   "Recovered": 115411,
+   "Deceased": 1788
+ },
+ {
+   "State": "Karnataka",
+   "District": "Belagavi",
+   "Confirmed": 101682,
+   "Active": -3,
+   "Recovered": 100680,
+   "Deceased": 1005
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bengaluru Rural",
+   "Confirmed": 80299,
+   "Active": -13,
+   "Recovered": 79401,
+   "Deceased": 911
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bengaluru Urban",
+   "Confirmed": 1870398,
+   "Active": 2118,
+   "Recovered": 1851298,
+   "Deceased": 16981
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bidar",
+   "Confirmed": 30034,
+   "Active": 10,
+   "Recovered": 29600,
+   "Deceased": 420
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chamarajanagara",
+   "Confirmed": 44332,
+   "Active": -2,
+   "Recovered": 43796,
+   "Deceased": 527
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chikkaballapura",
+   "Confirmed": 56118,
+   "Active": 5,
+   "Recovered": 55652,
+   "Deceased": 460
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chikkamagaluru",
+   "Confirmed": 58067,
+   "Active": 16,
+   "Recovered": 57645,
+   "Deceased": 406
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chitradurga",
+   "Confirmed": 46556,
+   "Active": 7,
+   "Recovered": 46308,
+   "Deceased": 241
+ },
+ {
+   "State": "Karnataka",
+   "District": "Dakshina Kannada",
+   "Confirmed": 137047,
+   "Active": 40,
+   "Recovered": 135148,
+   "Deceased": 1852
+ },
+ {
+   "State": "Karnataka",
+   "District": "Davanagere",
+   "Confirmed": 58128,
+   "Active": -12,
+   "Recovered": 57512,
+   "Deceased": 628
+ },
+ {
+   "State": "Karnataka",
+   "District": "Dharwad",
+   "Confirmed": 86157,
+   "Active": 26,
+   "Recovered": 84723,
+   "Deceased": 1406
+ },
+ {
+   "State": "Karnataka",
+   "District": "Gadag",
+   "Confirmed": 30672,
+   "Active": -12,
+   "Recovered": 30346,
+   "Deceased": 338
+ },
+ {
+   "State": "Karnataka",
+   "District": "Hassan",
+   "Confirmed": 145655,
+   "Active": 19,
+   "Recovered": 144325,
+   "Deceased": 1309
+ },
+ {
+   "State": "Karnataka",
+   "District": "Haveri",
+   "Confirmed": 27165,
+   "Active": 7,
+   "Recovered": 26483,
+   "Deceased": 675
+ },
+ {
+   "State": "Karnataka",
+   "District": "Kalaburagi",
+   "Confirmed": 77535,
+   "Active": 4,
+   "Recovered": 76643,
+   "Deceased": 888
+ },
+ {
+   "State": "Karnataka",
+   "District": "Kodagu",
+   "Confirmed": 50730,
+   "Active": 5,
+   "Recovered": 50373,
+   "Deceased": 351
+ },
+ {
+   "State": "Karnataka",
+   "District": "Kolar",
+   "Confirmed": 64105,
+   "Active": -34,
+   "Recovered": 63467,
+   "Deceased": 672
+ },
+ {
+   "State": "Karnataka",
+   "District": "Koppal",
+   "Confirmed": 41563,
+   "Active": 2,
+   "Recovered": 41017,
+   "Deceased": 544
+ },
+ {
+   "State": "Karnataka",
+   "District": "Mandya",
+   "Confirmed": 102352,
+   "Active": -10,
+   "Recovered": 101652,
+   "Deceased": 710
+ },
+ {
+   "State": "Karnataka",
+   "District": "Mysuru",
+   "Confirmed": 233531,
+   "Active": 14,
+   "Recovered": 230941,
+   "Deceased": 2576
+ },
+ {
+   "State": "Karnataka",
+   "District": "Other State",
+   "Confirmed": 36,
+   "Active": 0,
+   "Recovered": 33,
+   "Deceased": 3
+ },
+ {
+   "State": "Karnataka",
+   "District": "Raichur",
+   "Confirmed": 46269,
+   "Active": -2,
+   "Recovered": 45902,
+   "Deceased": 369
+ },
+ {
+   "State": "Karnataka",
+   "District": "Ramanagara",
+   "Confirmed": 31237,
+   "Active": 17,
+   "Recovered": 30872,
+   "Deceased": 348
+ },
+ {
+   "State": "Karnataka",
+   "District": "Shivamogga",
+   "Confirmed": 84568,
+   "Active": 35,
+   "Recovered": 83392,
+   "Deceased": 1141
+ },
+ {
+   "State": "Karnataka",
+   "District": "Tumakuru",
+   "Confirmed": 160807,
+   "Active": -12,
+   "Recovered": 159600,
+   "Deceased": 1219
+ },
+ {
+   "State": "Karnataka",
+   "District": "Udupi",
+   "Confirmed": 96347,
+   "Active": 25,
+   "Recovered": 95770,
+   "Deceased": 552
+ },
+ {
+   "State": "Karnataka",
+   "District": "Uttara Kannada",
+   "Confirmed": 71951,
+   "Active": 13,
+   "Recovered": 71124,
+   "Deceased": 814
+ },
+ {
+   "State": "Karnataka",
+   "District": "Vijayapura",
+   "Confirmed": 41199,
+   "Active": 16,
+   "Recovered": 40663,
+   "Deceased": 520
+ },
+ {
+   "State": "Karnataka",
+   "District": "Yadgir",
+   "Confirmed": 30022,
+   "Active": -2,
+   "Recovered": 29811,
+   "Deceased": 213
+ },
+ {
+   "State": "Kerala",
+   "District": "Alappuzha",
+   "Confirmed": 392321,
+   "Active": 2377,
+   "Recovered": 384815,
+   "Deceased": 5089
+ },
+ {
+   "State": "Kerala",
+   "District": "Ernakulam",
+   "Confirmed": 899865,
+   "Active": 15957,
+   "Recovered": 875984,
+   "Deceased": 7854
+ },
+ {
+   "State": "Kerala",
+   "District": "Idukki",
+   "Confirmed": 209320,
+   "Active": 5547,
+   "Recovered": 202377,
+   "Deceased": 1387
+ },
+ {
+   "State": "Kerala",
+   "District": "Kannur",
+   "Confirmed": 348832,
+   "Active": 2205,
+   "Recovered": 342240,
+   "Deceased": 4334
+ },
+ {
+   "State": "Kerala",
+   "District": "Kasaragod",
+   "Confirmed": 166543,
+   "Active": 2630,
+   "Recovered": 162547,
+   "Deceased": 1349
+ },
+ {
+   "State": "Kerala",
+   "District": "Kollam",
+   "Confirmed": 514028,
+   "Active": 3582,
+   "Recovered": 504044,
+   "Deceased": 6345
+ },
+ {
+   "State": "Kerala",
+   "District": "Kottayam",
+   "Confirmed": 454544,
+   "Active": 5676,
+   "Recovered": 444419,
+   "Deceased": 4431
+ },
+ {
+   "State": "Kerala",
+   "District": "Kozhikode",
+   "Confirmed": 674611,
+   "Active": -154,
+   "Recovered": 668555,
+   "Deceased": 6166
+ },
+ {
+   "State": "Kerala",
+   "District": "Malappuram",
+   "Confirmed": 646838,
+   "Active": 2362,
+   "Recovered": 638373,
+   "Deceased": 6071
+ },
+ {
+   "State": "Kerala",
+   "District": "Palakkad",
+   "Confirmed": 450303,
+   "Active": 6540,
+   "Recovered": 438175,
+   "Deceased": 5564
+ },
+ {
+   "State": "Kerala",
+   "District": "Pathanamthitta",
+   "Confirmed": 270015,
+   "Active": 5504,
+   "Recovered": 262039,
+   "Deceased": 2461
+ },
+ {
+   "State": "Kerala",
+   "District": "Thiruvananthapuram",
+   "Confirmed": 719288,
+   "Active": 15567,
+   "Recovered": 695430,
+   "Deceased": 8177
+ },
+ {
+   "State": "Kerala",
+   "District": "Thrissur",
+   "Confirmed": 671298,
+   "Active": 3623,
+   "Recovered": 660345,
+   "Deceased": 7304
+ },
+ {
+   "State": "Kerala",
+   "District": "Unknown",
+   "Confirmed": 170274,
+   "Active": -63958,
+   "Recovered": 231149,
+   "Deceased": 3083
+ },
+ {
+   "State": "Kerala",
+   "District": "Wayanad",
+   "Confirmed": 167651,
+   "Active": 2829,
+   "Recovered": 163804,
+   "Deceased": 1004
+ },
+ {
+   "State": "Ladakh",
+   "District": "Kargil",
+   "Confirmed": 5324,
+   "Active": 241,
+   "Recovered": 5023,
+   "Deceased": 60
+ },
+ {
+   "State": "Ladakh",
+   "District": "Leh",
+   "Confirmed": 23950,
+   "Active": 1157,
+   "Recovered": 22622,
+   "Deceased": 171
+ },
+ {
+   "State": "Lakshadweep",
+   "District": "Lakshadweep",
+   "Confirmed": 11405,
+   "Active": -8,
+   "Recovered": 11317,
+   "Deceased": 52
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Ahmednagar",
+   "Confirmed": 380229,
+   "Active": 10877,
+   "Recovered": 362116,
+   "Deceased": 7235
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Akola",
+   "Confirmed": 67054,
+   "Active": 3525,
+   "Recovered": 62054,
+   "Deceased": 1471
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Amravati",
+   "Confirmed": 107115,
+   "Active": 1526,
+   "Recovered": 103963,
+   "Deceased": 1624
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Aurangabad",
+   "Confirmed": 178747,
+   "Active": 7087,
+   "Recovered": 167372,
+   "Deceased": 4274
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Beed",
+   "Confirmed": 109714,
+   "Active": 1812,
+   "Recovered": 105014,
+   "Deceased": 2881
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Bhandara",
+   "Confirmed": 70010,
+   "Active": 2179,
+   "Recovered": 66688,
+   "Deceased": 1133
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Buldhana",
+   "Confirmed": 93103,
+   "Active": 382,
+   "Recovered": 91885,
+   "Deceased": 830
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Chandrapur",
+   "Confirmed": 100200,
+   "Active": 3672,
+   "Recovered": 94930,
+   "Deceased": 1594
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Dhule",
+   "Confirmed": 51990,
+   "Active": 2512,
+   "Recovered": 48808,
+   "Deceased": 659
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Gadchiroli",
+   "Confirmed": 37754,
+   "Active": 1790,
+   "Recovered": 35233,
+   "Deceased": 698
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Gondia",
+   "Confirmed": 46025,
+   "Active": 1898,
+   "Recovered": 43539,
+   "Deceased": 581
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Hingoli",
+   "Confirmed": 22470,
+   "Active": 947,
+   "Recovered": 21004,
+   "Deceased": 518
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Jalgaon",
+   "Confirmed": 150307,
+   "Active": 3418,
+   "Recovered": 144128,
+   "Deceased": 2729
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Jalna",
+   "Confirmed": 67601,
+   "Active": 1849,
+   "Recovered": 64526,
+   "Deceased": 1225
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Kolhapur",
+   "Confirmed": 221899,
+   "Active": 5379,
+   "Recovered": 210597,
+   "Deceased": 5918
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Latur",
+   "Confirmed": 106550,
+   "Active": 5719,
+   "Recovered": 98342,
+   "Deceased": 2483
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Mumbai",
+   "Confirmed": 1148726,
+   "Active": 235668,
+   "Recovered": 893694,
+   "Deceased": 16852
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nagpur",
+   "Confirmed": 586128,
+   "Active": 28710,
+   "Recovered": 548189,
+   "Deceased": 9158
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nanded",
+   "Confirmed": 103320,
+   "Active": 5689,
+   "Recovered": 94927,
+   "Deceased": 2698
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nandurbar",
+   "Confirmed": 46994,
+   "Active": 1663,
+   "Recovered": 44368,
+   "Deceased": 960
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nashik",
+   "Confirmed": 478760,
+   "Active": 29804,
+   "Recovered": 440041,
+   "Deceased": 8914
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Osmanabad",
+   "Confirmed": 76974,
+   "Active": 3102,
+   "Recovered": 71735,
+   "Deceased": 2023
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Other State",
+   "Confirmed": 144,
+   "Active": 0,
+   "Recovered": 31,
+   "Deceased": 111
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Palghar",
+   "Confirmed": 168197,
+   "Active": 18995,
+   "Recovered": 145783,
+   "Deceased": 3405
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Parbhani",
+   "Confirmed": 59675,
+   "Active": 1821,
+   "Recovered": 56573,
+   "Deceased": 1262
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Pune",
+   "Confirmed": 1501274,
+   "Active": 142459,
+   "Recovered": 1338243,
+   "Deceased": 20223
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Raigad",
+   "Confirmed": 256018,
+   "Active": 33757,
+   "Recovered": 217386,
+   "Deceased": 4868
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Ratnagiri",
+   "Confirmed": 85692,
+   "Active": 3153,
+   "Recovered": 79982,
+   "Deceased": 2552
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Sangli",
+   "Confirmed": 228891,
+   "Active": 7218,
+   "Recovered": 216002,
+   "Deceased": 5662
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Satara",
+   "Confirmed": 280198,
+   "Active": 13987,
+   "Recovered": 259462,
+   "Deceased": 6718
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Sindhudurg",
+   "Confirmed": 58035,
+   "Active": 2256,
+   "Recovered": 54240,
+   "Deceased": 1524
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Solapur",
+   "Confirmed": 229311,
+   "Active": 6675,
+   "Recovered": 216758,
+   "Deceased": 5768
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Thane",
+   "Confirmed": 804848,
+   "Active": 118567,
+   "Recovered": 674357,
+   "Deceased": 11889
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Unknown",
+   "Confirmed": 7747,
+   "Active": -705952,
+   "Recovered": 709583,
+   "Deceased": 4116
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Wardha",
+   "Confirmed": 66361,
+   "Active": 2282,
+   "Recovered": 62676,
+   "Deceased": 1238
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Washim",
+   "Confirmed": 47566,
+   "Active": 949,
+   "Recovered": 45976,
+   "Deceased": 638
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Yavatmal",
+   "Confirmed": 82669,
+   "Active": 1903,
+   "Recovered": 78946,
+   "Deceased": 1816
+ },
+ {
+   "State": "Meghalaya",
+   "District": "East Garo Hills",
+   "Confirmed": 2064,
+   "Active": 41,
+   "Recovered": 2005,
+   "Deceased": 18
+ },
+ {
+   "State": "Meghalaya",
+   "District": "East Jaintia Hills",
+   "Confirmed": 2656,
+   "Active": 37,
+   "Recovered": 2581,
+   "Deceased": 38
+ },
+ {
+   "State": "Meghalaya",
+   "District": "East Khasi Hills",
+   "Confirmed": 47112,
+   "Active": 2275,
+   "Recovered": 43791,
+   "Deceased": 1046
+ },
+ {
+   "State": "Meghalaya",
+   "District": "North Garo Hills",
+   "Confirmed": 1923,
+   "Active": 13,
+   "Recovered": 1900,
+   "Deceased": 10
+ },
+ {
+   "State": "Meghalaya",
+   "District": "Ribhoi",
+   "Confirmed": 10554,
+   "Active": 103,
+   "Recovered": 10350,
+   "Deceased": 101
+ },
+ {
+   "State": "Meghalaya",
+   "District": "South Garo Hills",
+   "Confirmed": 1442,
+   "Active": 19,
+   "Recovered": 1407,
+   "Deceased": 16
+ },
+ {
+   "State": "Meghalaya",
+   "District": "South West Garo Hills",
+   "Confirmed": 2267,
+   "Active": 16,
+   "Recovered": 2231,
+   "Deceased": 20
+ },
+ {
+   "State": "Meghalaya",
+   "District": "South West Khasi Hills",
+   "Confirmed": 2724,
+   "Active": 17,
+   "Recovered": 2688,
+   "Deceased": 19
+ },
+ {
+   "State": "Meghalaya",
+   "District": "Unknown",
+   "Confirmed": 921,
+   "Active": -2513,
+   "Recovered": 3390,
+   "Deceased": 44
+ },
+ {
+   "State": "Meghalaya",
+   "District": "West Garo Hills",
+   "Confirmed": 11801,
+   "Active": 291,
+   "Recovered": 11427,
+   "Deceased": 83
+ },
+ {
+   "State": "Meghalaya",
+   "District": "West Jaintia Hills",
+   "Confirmed": 7311,
+   "Active": 74,
+   "Recovered": 7097,
+   "Deceased": 140
+ },
+ {
+   "State": "Meghalaya",
+   "District": "West Khasi Hills",
+   "Confirmed": 5666,
+   "Active": -62,
+   "Recovered": 5650,
+   "Deceased": 78
+ },
+ {
+   "State": "Manipur",
+   "District": "Bishnupur",
+   "Confirmed": 815,
+   "Active": 799,
+   "Recovered": 0,
+   "Deceased": 16
+ },
+ {
+   "State": "Manipur",
+   "District": "Chandel",
+   "Confirmed": 463,
+   "Active": 458,
+   "Recovered": 0,
+   "Deceased": 5
+ },
+ {
+   "State": "Manipur",
+   "District": "Churachandpur",
+   "Confirmed": 1124,
+   "Active": 1116,
+   "Recovered": 0,
+   "Deceased": 8
+ },
+ {
+   "State": "Manipur",
+   "District": "Imphal East",
+   "Confirmed": 3611,
+   "Active": 3552,
+   "Recovered": 0,
+   "Deceased": 59
+ },
+ {
+   "State": "Manipur",
+   "District": "Imphal West",
+   "Confirmed": 6658,
+   "Active": 6588,
+   "Recovered": 0,
+   "Deceased": 70
+ },
+ {
+   "State": "Manipur",
+   "District": "Jiribam",
+   "Confirmed": 95,
+   "Active": 95,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Manipur",
+   "District": "Kakching",
+   "Confirmed": 576,
+   "Active": 563,
+   "Recovered": 0,
+   "Deceased": 13
+ },
+ {
+   "State": "Manipur",
+   "District": "Kamjong",
+   "Confirmed": 120,
+   "Active": 120,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Manipur",
+   "District": "Kangpokpi",
+   "Confirmed": 402,
+   "Active": 393,
+   "Recovered": 0,
+   "Deceased": 9
+ },
+ {
+   "State": "Manipur",
+   "District": "Noney",
+   "Confirmed": 103,
+   "Active": 102,
+   "Recovered": 0,
+   "Deceased": 1
+ },
+ {
+   "State": "Manipur",
+   "District": "Pherzawl",
+   "Confirmed": 13,
+   "Active": 13,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Manipur",
+   "District": "Senapati",
+   "Confirmed": 312,
+   "Active": 309,
+   "Recovered": 0,
+   "Deceased": 3
+ },
+ {
+   "State": "Manipur",
+   "District": "Tamenglong",
+   "Confirmed": 218,
+   "Active": 214,
+   "Recovered": 0,
+   "Deceased": 4
+ },
+ {
+   "State": "Manipur",
+   "District": "Tengnoupal",
+   "Confirmed": 157,
+   "Active": 154,
+   "Recovered": 0,
+   "Deceased": 3
+ },
+ {
+   "State": "Manipur",
+   "District": "Thoubal",
+   "Confirmed": 851,
+   "Active": 833,
+   "Recovered": 0,
+   "Deceased": 18
+ },
+ {
+   "State": "Manipur",
+   "District": "Ukhrul",
+   "Confirmed": 417,
+   "Active": 174,
+   "Recovered": 230,
+   "Deceased": 13
+ },
+ {
+   "State": "Manipur",
+   "District": "Unknown",
+   "Confirmed": 123743,
+   "Active": -14422,
+   "Recovered": 136243,
+   "Deceased": 1922
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Agar Malwa",
+   "Confirmed": 4149,
+   "Active": 0,
+   "Recovered": 4081,
+   "Deceased": 68
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Alirajpur",
+   "Confirmed": 4433,
+   "Active": 18,
+   "Recovered": 4366,
+   "Deceased": 49
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Anuppur",
+   "Confirmed": 10843,
+   "Active": 20,
+   "Recovered": 10734,
+   "Deceased": 89
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Ashoknagar",
+   "Confirmed": 5200,
+   "Active": 3,
+   "Recovered": 5137,
+   "Deceased": 60
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Balaghat",
+   "Confirmed": 11834,
+   "Active": 39,
+   "Recovered": 11731,
+   "Deceased": 64
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Barwani",
+   "Confirmed": 10133,
+   "Active": 26,
+   "Recovered": 10014,
+   "Deceased": 93
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Betul",
+   "Confirmed": 16552,
+   "Active": 71,
+   "Recovered": 16202,
+   "Deceased": 279
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Bhind",
+   "Confirmed": 3710,
+   "Active": 6,
+   "Recovered": 3672,
+   "Deceased": 32
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Bhopal",
+   "Confirmed": 175444,
+   "Active": 1636,
+   "Recovered": 172795,
+   "Deceased": 1013
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Burhanpur",
+   "Confirmed": 3122,
+   "Active": 30,
+   "Recovered": 3053,
+   "Deceased": 39
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Chhatarpur",
+   "Confirmed": 10137,
+   "Active": 9,
+   "Recovered": 10036,
+   "Deceased": 92
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Chhindwara",
+   "Confirmed": 9089,
+   "Active": 10,
+   "Recovered": 8957,
+   "Deceased": 122
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Damoh",
+   "Confirmed": 10989,
+   "Active": 105,
+   "Recovered": 10696,
+   "Deceased": 188
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Datia",
+   "Confirmed": 9932,
+   "Active": 26,
+   "Recovered": 9826,
+   "Deceased": 80
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Dewas",
+   "Confirmed": 9903,
+   "Active": 2,
+   "Recovered": 9850,
+   "Deceased": 51
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Dhar",
+   "Confirmed": 16570,
+   "Active": 70,
+   "Recovered": 16367,
+   "Deceased": 133
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Dindori",
+   "Confirmed": 5789,
+   "Active": -2,
+   "Recovered": 5762,
+   "Deceased": 29
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Guna",
+   "Confirmed": 7064,
+   "Active": -3,
+   "Recovered": 7023,
+   "Deceased": 44
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Gwalior",
+   "Confirmed": 66026,
+   "Active": 244,
+   "Recovered": 65143,
+   "Deceased": 639
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Harda",
+   "Confirmed": 7171,
+   "Active": 4,
+   "Recovered": 7070,
+   "Deceased": 97
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Hoshangabad",
+   "Confirmed": 15346,
+   "Active": 34,
+   "Recovered": 15213,
+   "Deceased": 99
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Indore",
+   "Confirmed": 212322,
+   "Active": 2210,
+   "Recovered": 208649,
+   "Deceased": 1463
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Jabalpur",
+   "Confirmed": 68499,
+   "Active": 419,
+   "Recovered": 67365,
+   "Deceased": 715
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Jhabua",
+   "Confirmed": 10290,
+   "Active": 23,
+   "Recovered": 10203,
+   "Deceased": 64
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Katni",
+   "Confirmed": 11483,
+   "Active": 10,
+   "Recovered": 11352,
+   "Deceased": 121
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Khandwa",
+   "Confirmed": 6718,
+   "Active": 54,
+   "Recovered": 6570,
+   "Deceased": 94
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Khargone",
+   "Confirmed": 19498,
+   "Active": 56,
+   "Recovered": 19194,
+   "Deceased": 248
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Mandla",
+   "Confirmed": 6879,
+   "Active": 8,
+   "Recovered": 6846,
+   "Deceased": 25
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Mandsaur",
+   "Confirmed": 9789,
+   "Active": 8,
+   "Recovered": 9695,
+   "Deceased": 86
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Morena",
+   "Confirmed": 10156,
+   "Active": 6,
+   "Recovered": 10055,
+   "Deceased": 95
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Narsinghpur",
+   "Confirmed": 14156,
+   "Active": 28,
+   "Recovered": 14047,
+   "Deceased": 81
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Neemuch",
+   "Confirmed": 9332,
+   "Active": 26,
+   "Recovered": 9222,
+   "Deceased": 84
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Niwari",
+   "Confirmed": 5084,
+   "Active": 18,
+   "Recovered": 5018,
+   "Deceased": 48
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Other Region",
+   "Confirmed": 0,
+   "Active": 0,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Panna",
+   "Confirmed": 8838,
+   "Active": 17,
+   "Recovered": 8758,
+   "Deceased": 63
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Raigarh",
+   "Confirmed": 18,
+   "Active": 2,
+   "Recovered": 16,
+   "Deceased": 0
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Raisen",
+   "Confirmed": 13885,
+   "Active": 55,
+   "Recovered": 13631,
+   "Deceased": 199
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Rajgarh",
+   "Confirmed": 10949,
+   "Active": 64,
+   "Recovered": 10713,
+   "Deceased": 172
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Ratlam",
+   "Confirmed": 21134,
+   "Active": 47,
+   "Recovered": 20699,
+   "Deceased": 388
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Rewa",
+   "Confirmed": 19517,
+   "Active": 21,
+   "Recovered": 19340,
+   "Deceased": 156
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sagar",
+   "Confirmed": 23172,
+   "Active": 114,
+   "Recovered": 22665,
+   "Deceased": 393
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Satna",
+   "Confirmed": 13882,
+   "Active": 7,
+   "Recovered": 13741,
+   "Deceased": 134
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sehore",
+   "Confirmed": 14678,
+   "Active": 30,
+   "Recovered": 14573,
+   "Deceased": 75
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Seoni",
+   "Confirmed": 10328,
+   "Active": 8,
+   "Recovered": 10292,
+   "Deceased": 28
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Shahdol",
+   "Confirmed": 12893,
+   "Active": 60,
+   "Recovered": 12715,
+   "Deceased": 118
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Shajapur",
+   "Confirmed": 7445,
+   "Active": 3,
+   "Recovered": 7368,
+   "Deceased": 74
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sheopur",
+   "Confirmed": 4973,
+   "Active": -2,
+   "Recovered": 4897,
+   "Deceased": 78
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Shivpuri",
+   "Confirmed": 16013,
+   "Active": 44,
+   "Recovered": 15844,
+   "Deceased": 125
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sidhi",
+   "Confirmed": 10235,
+   "Active": 1,
+   "Recovered": 10147,
+   "Deceased": 87
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Singrauli",
+   "Confirmed": 9595,
+   "Active": 25,
+   "Recovered": 9488,
+   "Deceased": 82
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Tikamgarh",
+   "Confirmed": 8168,
+   "Active": -3,
+   "Recovered": 8056,
+   "Deceased": 115
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Ujjain",
+   "Confirmed": 24367,
+   "Active": 84,
+   "Recovered": 24104,
+   "Deceased": 179
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Umaria",
+   "Confirmed": 8083,
+   "Active": 9,
+   "Recovered": 8010,
+   "Deceased": 64
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Unknown",
+   "Confirmed": 1853,
+   "Active": -5534,
+   "Recovered": 5862,
+   "Deceased": 1525
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Vidisha",
+   "Confirmed": 17169,
+   "Active": 42,
+   "Recovered": 16879,
+   "Deceased": 248
+ },
+ {
+   "State": "Mizoram",
+   "District": "Aizawl",
+   "Confirmed": 111101,
+   "Active": -12090,
+   "Recovered": 122831,
+   "Deceased": 360
+ },
+ {
+   "State": "Mizoram",
+   "District": "Champhai",
+   "Confirmed": 9414,
+   "Active": -1657,
+   "Recovered": 11053,
+   "Deceased": 18
+ },
+ {
+   "State": "Mizoram",
+   "District": "Hnahthial",
+   "Confirmed": 3291,
+   "Active": -791,
+   "Recovered": 4077,
+   "Deceased": 5
+ },
+ {
+   "State": "Mizoram",
+   "District": "Khawzawl",
+   "Confirmed": 5166,
+   "Active": -1025,
+   "Recovered": 6191,
+   "Deceased": 0
+ },
+ {
+   "State": "Mizoram",
+   "District": "Kolasib",
+   "Confirmed": 11269,
+   "Active": -1012,
+   "Recovered": 12247,
+   "Deceased": 34
+ },
+ {
+   "State": "Mizoram",
+   "District": "Lawngtlai",
+   "Confirmed": 8656,
+   "Active": -666,
+   "Recovered": 9297,
+   "Deceased": 25
+ },
+ {
+   "State": "Mizoram",
+   "District": "Lunglei",
+   "Confirmed": 19793,
+   "Active": -2352,
+   "Recovered": 22103,
+   "Deceased": 42
+ },
+ {
+   "State": "Mizoram",
+   "District": "Mamit",
+   "Confirmed": 13246,
+   "Active": -1737,
+   "Recovered": 14969,
+   "Deceased": 14
+ },
+ {
+   "State": "Mizoram",
+   "District": "Saiha",
+   "Confirmed": 6824,
+   "Active": -292,
+   "Recovered": 7099,
+   "Deceased": 17
+ },
+ {
+   "State": "Mizoram",
+   "District": "Saitual",
+   "Confirmed": 6756,
+   "Active": -1239,
+   "Recovered": 7987,
+   "Deceased": 8
+ },
+ {
+   "State": "Mizoram",
+   "District": "Serchhip",
+   "Confirmed": 12155,
+   "Active": -1536,
+   "Recovered": 13668,
+   "Deceased": 23
+ },
+ {
+   "State": "Mizoram",
+   "District": "Unknown",
+   "Confirmed": 20549,
+   "Active": 17425,
+   "Recovered": 2986,
+   "Deceased": 138
+ },
+ {
+   "State": "Nagaland",
+   "District": "Dimapur",
+   "Confirmed": 17433,
+   "Active": 407,
+   "Recovered": 15848,
+   "Deceased": 489
+ },
+ {
+   "State": "Nagaland",
+   "District": "Kiphire",
+   "Confirmed": 280,
+   "Active": 0,
+   "Recovered": 270,
+   "Deceased": 9
+ },
+ {
+   "State": "Nagaland",
+   "District": "Kohima",
+   "Confirmed": 10205,
+   "Active": 36,
+   "Recovered": 9831,
+   "Deceased": 136
+ },
+ {
+   "State": "Nagaland",
+   "District": "Longleng",
+   "Confirmed": 336,
+   "Active": 3,
+   "Recovered": 313,
+   "Deceased": 2
+ },
+ {
+   "State": "Nagaland",
+   "District": "Mokokchung",
+   "Confirmed": 2540,
+   "Active": 23,
+   "Recovered": 2394,
+   "Deceased": 61
+ },
+ {
+   "State": "Nagaland",
+   "District": "Mon",
+   "Confirmed": 1199,
+   "Active": 6,
+   "Recovered": 1162,
+   "Deceased": 14
+ },
+ {
+   "State": "Nagaland",
+   "District": "Others",
+   "Confirmed": 2,
+   "Active": 2,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Nagaland",
+   "District": "Peren",
+   "Confirmed": 999,
+   "Active": 6,
+   "Recovered": 972,
+   "Deceased": 6
+ },
+ {
+   "State": "Nagaland",
+   "District": "Phek",
+   "Confirmed": 645,
+   "Active": -2,
+   "Recovered": 619,
+   "Deceased": 19
+ },
+ {
+   "State": "Nagaland",
+   "District": "Tuensang",
+   "Confirmed": 1198,
+   "Active": -2,
+   "Recovered": 1183,
+   "Deceased": 14
+ },
+ {
+   "State": "Nagaland",
+   "District": "Unknown",
+   "Confirmed": 11,
+   "Active": 4,
+   "Recovered": 7,
+   "Deceased": 0
+ },
+ {
+   "State": "Nagaland",
+   "District": "Wokha",
+   "Confirmed": 479,
+   "Active": 5,
+   "Recovered": 447,
+   "Deceased": 11
+ },
+ {
+   "State": "Nagaland",
+   "District": "Zunheboto",
+   "Confirmed": 638,
+   "Active": 5,
+   "Recovered": 606,
+   "Deceased": 16
+ },
+ {
+   "State": "Odisha",
+   "District": "Angul",
+   "Confirmed": 48149,
+   "Active": 267,
+   "Recovered": 47480,
+   "Deceased": 402
+ },
+ {
+   "State": "Odisha",
+   "District": "Balangir",
+   "Confirmed": 30159,
+   "Active": 1021,
+   "Recovered": 29009,
+   "Deceased": 129
+ },
+ {
+   "State": "Odisha",
+   "District": "Balasore",
+   "Confirmed": 49882,
+   "Active": 205,
+   "Recovered": 49328,
+   "Deceased": 349
+ },
+ {
+   "State": "Odisha",
+   "District": "Bargarh",
+   "Confirmed": 35614,
+   "Active": 279,
+   "Recovered": 34989,
+   "Deceased": 346
+ },
+ {
+   "State": "Odisha",
+   "District": "Bhadrak",
+   "Confirmed": 29834,
+   "Active": 126,
+   "Recovered": 29537,
+   "Deceased": 171
+ },
+ {
+   "State": "Odisha",
+   "District": "Boudh",
+   "Confirmed": 15163,
+   "Active": 31,
+   "Recovered": 15018,
+   "Deceased": 114
+ },
+ {
+   "State": "Odisha",
+   "District": "Cuttack",
+   "Confirmed": 117899,
+   "Active": 1162,
+   "Recovered": 115839,
+   "Deceased": 898
+ },
+ {
+   "State": "Odisha",
+   "District": "Deogarh",
+   "Confirmed": 8892,
+   "Active": 191,
+   "Recovered": 8648,
+   "Deceased": 53
+ },
+ {
+   "State": "Odisha",
+   "District": "Dhenkanal",
+   "Confirmed": 22440,
+   "Active": 100,
+   "Recovered": 22082,
+   "Deceased": 258
+ },
+ {
+   "State": "Odisha",
+   "District": "Gajapati",
+   "Confirmed": 13464,
+   "Active": 158,
+   "Recovered": 13222,
+   "Deceased": 84
+ },
+ {
+   "State": "Odisha",
+   "District": "Ganjam",
+   "Confirmed": 36988,
+   "Active": 141,
+   "Recovered": 36336,
+   "Deceased": 511
+ },
+ {
+   "State": "Odisha",
+   "District": "Jagatsinghpur",
+   "Confirmed": 32637,
+   "Active": 249,
+   "Recovered": 32051,
+   "Deceased": 337
+ },
+ {
+   "State": "Odisha",
+   "District": "Jajpur",
+   "Confirmed": 51160,
+   "Active": 321,
+   "Recovered": 50644,
+   "Deceased": 195
+ },
+ {
+   "State": "Odisha",
+   "District": "Jharsuguda",
+   "Confirmed": 29038,
+   "Active": 364,
+   "Recovered": 28493,
+   "Deceased": 181
+ },
+ {
+   "State": "Odisha",
+   "District": "Kalahandi",
+   "Confirmed": 29855,
+   "Active": 367,
+   "Recovered": 29273,
+   "Deceased": 215
+ },
+ {
+   "State": "Odisha",
+   "District": "Kandhamal",
+   "Confirmed": 14063,
+   "Active": 165,
+   "Recovered": 13803,
+   "Deceased": 95
+ },
+ {
+   "State": "Odisha",
+   "District": "Kendrapara",
+   "Confirmed": 28340,
+   "Active": 151,
+   "Recovered": 27918,
+   "Deceased": 271
+ },
+ {
+   "State": "Odisha",
+   "District": "Kendujhar",
+   "Confirmed": 24607,
+   "Active": 134,
+   "Recovered": 24281,
+   "Deceased": 192
+ },
+ {
+   "State": "Odisha",
+   "District": "Khordha",
+   "Confirmed": 255900,
+   "Active": 2977,
+   "Recovered": 251244,
+   "Deceased": 1679
+ },
+ {
+   "State": "Odisha",
+   "District": "Koraput",
+   "Confirmed": 24087,
+   "Active": 330,
+   "Recovered": 23677,
+   "Deceased": 80
+ },
+ {
+   "State": "Odisha",
+   "District": "Malkangiri",
+   "Confirmed": 12895,
+   "Active": 11,
+   "Recovered": 12833,
+   "Deceased": 51
+ },
+ {
+   "State": "Odisha",
+   "District": "Mayurbhanj",
+   "Confirmed": 50741,
+   "Active": 723,
+   "Recovered": 49715,
+   "Deceased": 303
+ },
+ {
+   "State": "Odisha",
+   "District": "Nabarangapur",
+   "Confirmed": 28272,
+   "Active": 246,
+   "Recovered": 27932,
+   "Deceased": 94
+ },
+ {
+   "State": "Odisha",
+   "District": "Nayagarh",
+   "Confirmed": 29491,
+   "Active": 341,
+   "Recovered": 28928,
+   "Deceased": 222
+ },
+ {
+   "State": "Odisha",
+   "District": "Nuapada",
+   "Confirmed": 27594,
+   "Active": 256,
+   "Recovered": 27247,
+   "Deceased": 91
+ },
+ {
+   "State": "Odisha",
+   "District": "Others",
+   "Confirmed": 61,
+   "Active": 50,
+   "Recovered": 11,
+   "Deceased": 0
+ },
+ {
+   "State": "Odisha",
+   "District": "Puri",
+   "Confirmed": 50981,
+   "Active": 273,
+   "Recovered": 50232,
+   "Deceased": 476
+ },
+ {
+   "State": "Odisha",
+   "District": "Rayagada",
+   "Confirmed": 25363,
+   "Active": 648,
+   "Recovered": 24542,
+   "Deceased": 173
+ },
+ {
+   "State": "Odisha",
+   "District": "Sambalpur",
+   "Confirmed": 45042,
+   "Active": 1018,
+   "Recovered": 43779,
+   "Deceased": 245
+ },
+ {
+   "State": "Odisha",
+   "District": "State Pool",
+   "Confirmed": 49621,
+   "Active": 726,
+   "Recovered": 48895,
+   "Deceased": 0
+ },
+ {
+   "State": "Odisha",
+   "District": "Subarnapur",
+   "Confirmed": 17360,
+   "Active": 171,
+   "Recovered": 17126,
+   "Deceased": 63
+ },
+ {
+   "State": "Odisha",
+   "District": "Sundargarh",
+   "Confirmed": 98810,
+   "Active": 2636,
+   "Recovered": 95503,
+   "Deceased": 671
+ },
+ {
+   "State": "Punjab",
+   "District": "Amritsar",
+   "Confirmed": 60344,
+   "Active": -72,
+   "Recovered": 58731,
+   "Deceased": 1685
+ },
+ {
+   "State": "Punjab",
+   "District": "Barnala",
+   "Confirmed": 7657,
+   "Active": 14,
+   "Recovered": 7296,
+   "Deceased": 347
+ },
+ {
+   "State": "Punjab",
+   "District": "Bathinda",
+   "Confirmed": 51815,
+   "Active": -251,
+   "Recovered": 50970,
+   "Deceased": 1096
+ },
+ {
+   "State": "Punjab",
+   "District": "Faridkot",
+   "Confirmed": 16967,
+   "Active": -50,
+   "Recovered": 16677,
+   "Deceased": 340
+ },
+ {
+   "State": "Punjab",
+   "District": "Fatehgarh Sahib",
+   "Confirmed": 12304,
+   "Active": -4,
+   "Recovered": 11955,
+   "Deceased": 353
+ },
+ {
+   "State": "Punjab",
+   "District": "Fazilka",
+   "Confirmed": 23815,
+   "Active": 74,
+   "Recovered": 23196,
+   "Deceased": 545
+ },
+ {
+   "State": "Punjab",
+   "District": "Ferozepur",
+   "Confirmed": 18199,
+   "Active": -5,
+   "Recovered": 17667,
+   "Deceased": 537
+ },
+ {
+   "State": "Punjab",
+   "District": "Gurdaspur",
+   "Confirmed": 27180,
+   "Active": -6,
+   "Recovered": 26316,
+   "Deceased": 870
+ },
+ {
+   "State": "Punjab",
+   "District": "Hoshiarpur",
+   "Confirmed": 41789,
+   "Active": -51,
+   "Recovered": 40730,
+   "Deceased": 1110
+ },
+ {
+   "State": "Punjab",
+   "District": "Jalandhar",
+   "Confirmed": 80289,
+   "Active": -201,
+   "Recovered": 78873,
+   "Deceased": 1617
+ },
+ {
+   "State": "Punjab",
+   "District": "Kapurthala",
+   "Confirmed": 22395,
+   "Active": -14,
+   "Recovered": 21819,
+   "Deceased": 590
+ },
+ {
+   "State": "Punjab",
+   "District": "Ludhiana",
+   "Confirmed": 111582,
+   "Active": -210,
+   "Recovered": 109496,
+   "Deceased": 2296
+ },
+ {
+   "State": "Punjab",
+   "District": "Mansa",
+   "Confirmed": 17337,
+   "Active": 15,
+   "Recovered": 16931,
+   "Deceased": 391
+ },
+ {
+   "State": "Punjab",
+   "District": "Moga",
+   "Confirmed": 11173,
+   "Active": -27,
+   "Recovered": 10940,
+   "Deceased": 260
+ },
+ {
+   "State": "Punjab",
+   "District": "Pathankot",
+   "Confirmed": 24880,
+   "Active": 28,
+   "Recovered": 24358,
+   "Deceased": 494
+ },
+ {
+   "State": "Punjab",
+   "District": "Patiala",
+   "Confirmed": 63455,
+   "Active": -16,
+   "Recovered": 62004,
+   "Deceased": 1467
+ },
+ {
+   "State": "Punjab",
+   "District": "Rupnagar",
+   "Confirmed": 18767,
+   "Active": -55,
+   "Recovered": 18367,
+   "Deceased": 455
+ },
+ {
+   "State": "Punjab",
+   "District": "Sangrur",
+   "Confirmed": 18432,
+   "Active": -17,
+   "Recovered": 17531,
+   "Deceased": 918
+ },
+ {
+   "State": "Punjab",
+   "District": "S.A.S. Nagar",
+   "Confirmed": 98843,
+   "Active": -407,
+   "Recovered": 98096,
+   "Deceased": 1154
+ },
+ {
+   "State": "Punjab",
+   "District": "Shahid Bhagat Singh Nagar",
+   "Confirmed": 13717,
+   "Active": -66,
+   "Recovered": 13372,
+   "Deceased": 411
+ },
+ {
+   "State": "Punjab",
+   "District": "Sri Muktsar Sahib",
+   "Confirmed": 22755,
+   "Active": -3,
+   "Recovered": 22217,
+   "Deceased": 541
+ },
+ {
+   "State": "Punjab",
+   "District": "Tarn Taran",
+   "Confirmed": 11006,
+   "Active": -24,
+   "Recovered": 10636,
+   "Deceased": 394
+ },
+ {
+   "State": "Puducherry",
+   "District": "Karaikal",
+   "Confirmed": 24176,
+   "Active": 42,
+   "Recovered": 23862,
+   "Deceased": 272
+ },
+ {
+   "State": "Puducherry",
+   "District": "Mahe",
+   "Confirmed": 6778,
+   "Active": 14,
+   "Recovered": 6702,
+   "Deceased": 62
+ },
+ {
+   "State": "Puducherry",
+   "District": "Puducherry",
+   "Confirmed": 131670,
+   "Active": -538,
+   "Recovered": 130653,
+   "Deceased": 1555
+ },
+ {
+   "State": "Puducherry",
+   "District": "Unknown",
+   "Confirmed": 2859,
+   "Active": 580,
+   "Recovered": 2276,
+   "Deceased": 3
+ },
+ {
+   "State": "Puducherry",
+   "District": "Yanam",
+   "Confirmed": 8856,
+   "Active": 1,
+   "Recovered": 8742,
+   "Deceased": 113
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Ajmer",
+   "Confirmed": 51135,
+   "Active": 21,
+   "Recovered": 50662,
+   "Deceased": 452
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Alwar",
+   "Confirmed": 87200,
+   "Active": -39,
+   "Recovered": 86916,
+   "Deceased": 323
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Banswara",
+   "Confirmed": 14962,
+   "Active": 16,
+   "Recovered": 14839,
+   "Deceased": 107
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Baran",
+   "Confirmed": 15366,
+   "Active": 2,
+   "Recovered": 15299,
+   "Deceased": 65
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Barmer",
+   "Confirmed": 21553,
+   "Active": 3,
+   "Recovered": 21345,
+   "Deceased": 205
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bharatpur",
+   "Confirmed": 32565,
+   "Active": -27,
+   "Recovered": 32317,
+   "Deceased": 275
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bhilwara",
+   "Confirmed": 38828,
+   "Active": 34,
+   "Recovered": 38632,
+   "Deceased": 162
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bikaner",
+   "Confirmed": 51069,
+   "Active": 63,
+   "Recovered": 50412,
+   "Deceased": 594
+ },
+ {
+   "State": "Rajasthan",
+   "District": "BSF Camp",
+   "Confirmed": 115,
+   "Active": 30,
+   "Recovered": 85,
+   "Deceased": 0
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bundi",
+   "Confirmed": 9878,
+   "Active": 6,
+   "Recovered": 9817,
+   "Deceased": 55
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Chittorgarh",
+   "Confirmed": 30155,
+   "Active": -371,
+   "Recovered": 30386,
+   "Deceased": 140
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Churu",
+   "Confirmed": 21040,
+   "Active": 0,
+   "Recovered": 20924,
+   "Deceased": 116
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Dausa",
+   "Confirmed": 16693,
+   "Active": -10,
+   "Recovered": 16615,
+   "Deceased": 88
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Dholpur",
+   "Confirmed": 14077,
+   "Active": 5,
+   "Recovered": 14023,
+   "Deceased": 49
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Dungarpur",
+   "Confirmed": 25871,
+   "Active": -24,
+   "Recovered": 25761,
+   "Deceased": 134
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Evacuees",
+   "Confirmed": 64,
+   "Active": 3,
+   "Recovered": 61,
+   "Deceased": 0
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Ganganagar",
+   "Confirmed": 28226,
+   "Active": -2,
+   "Recovered": 28067,
+   "Deceased": 161
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Hanumangarh",
+   "Confirmed": 22634,
+   "Active": 8,
+   "Recovered": 22509,
+   "Deceased": 117
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Italians",
+   "Confirmed": 2,
+   "Active": 0,
+   "Recovered": 2,
+   "Deceased": 0
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jaipur",
+   "Confirmed": 284500,
+   "Active": 122,
+   "Recovered": 282247,
+   "Deceased": 2131
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jaisalmer",
+   "Confirmed": 17270,
+   "Active": 4,
+   "Recovered": 17198,
+   "Deceased": 68
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jalore",
+   "Confirmed": 10772,
+   "Active": 9,
+   "Recovered": 10685,
+   "Deceased": 78
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jhalawar",
+   "Confirmed": 17958,
+   "Active": 6,
+   "Recovered": 17737,
+   "Deceased": 215
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jhunjhunu",
+   "Confirmed": 19260,
+   "Active": 74,
+   "Recovered": 19003,
+   "Deceased": 183
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jodhpur",
+   "Confirmed": 143657,
+   "Active": 77,
+   "Recovered": 142417,
+   "Deceased": 1163
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Karauli",
+   "Confirmed": 8996,
+   "Active": 5,
+   "Recovered": 8904,
+   "Deceased": 87
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Kota",
+   "Confirmed": 70624,
+   "Active": 2,
+   "Recovered": 70144,
+   "Deceased": 478
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Nagaur",
+   "Confirmed": 24343,
+   "Active": 17,
+   "Recovered": 24125,
+   "Deceased": 201
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Other State",
+   "Confirmed": 189,
+   "Active": 0,
+   "Recovered": 150,
+   "Deceased": 39
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Pali",
+   "Confirmed": 36151,
+   "Active": 8,
+   "Recovered": 35844,
+   "Deceased": 299
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Pratapgarh",
+   "Confirmed": 12370,
+   "Active": 65,
+   "Recovered": 12239,
+   "Deceased": 66
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Rajsamand",
+   "Confirmed": 23577,
+   "Active": 27,
+   "Recovered": 23372,
+   "Deceased": 178
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Sawai Madhopur",
+   "Confirmed": 15997,
+   "Active": -16,
+   "Recovered": 15944,
+   "Deceased": 69
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Sikar",
+   "Confirmed": 38625,
+   "Active": 35,
+   "Recovered": 38221,
+   "Deceased": 369
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Sirohi",
+   "Confirmed": 17722,
+   "Active": 7,
+   "Recovered": 17626,
+   "Deceased": 89
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Tonk",
+   "Confirmed": 13377,
+   "Active": 24,
+   "Recovered": 13249,
+   "Deceased": 104
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Udaipur",
+   "Confirmed": 75826,
+   "Active": 54,
+   "Recovered": 74997,
+   "Deceased": 775
+ },
+ {
+   "State": "Sikkim",
+   "District": "East Sikkim",
+   "Confirmed": 1004,
+   "Active": 1004,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Sikkim",
+   "District": "North Sikkim",
+   "Confirmed": 41,
+   "Active": 41,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Sikkim",
+   "District": "South Sikkim",
+   "Confirmed": 205,
+   "Active": 205,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Sikkim",
+   "District": "Unknown",
+   "Confirmed": 42048,
+   "Active": -1153,
+   "Recovered": 42385,
+   "Deceased": 491
+ },
+ {
+   "State": "Sikkim",
+   "District": "West Sikkim",
+   "Confirmed": 438,
+   "Active": 438,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Adilabad",
+   "Confirmed": 1548,
+   "Active": 1548,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Bhadradri Kothagudem",
+   "Confirmed": 3093,
+   "Active": 3093,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Hyderabad",
+   "Confirmed": 70331,
+   "Active": 70331,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Jagtial",
+   "Confirmed": 2018,
+   "Active": 2018,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Jangaon",
+   "Confirmed": 1409,
+   "Active": 1409,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Jayashankar Bhupalapally",
+   "Confirmed": 688,
+   "Active": 688,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Jogulamba Gadwal",
+   "Confirmed": 788,
+   "Active": 788,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Kamareddy",
+   "Confirmed": 1228,
+   "Active": 1228,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Karimnagar",
+   "Confirmed": 4072,
+   "Active": 4072,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Khammam",
+   "Confirmed": 4655,
+   "Active": 4655,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Komaram Bheem",
+   "Confirmed": 783,
+   "Active": 783,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Mahabubabad",
+   "Confirmed": 2429,
+   "Active": 2429,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Mahabubnagar",
+   "Confirmed": 2822,
+   "Active": 2822,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Mancherial",
+   "Confirmed": 3195,
+   "Active": 3195,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Medak",
+   "Confirmed": 1735,
+   "Active": 1735,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Medchal Malkajgiri",
+   "Confirmed": 12547,
+   "Active": 12547,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Mulugu",
+   "Confirmed": 746,
+   "Active": 746,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Nagarkurnool",
+   "Confirmed": 1451,
+   "Active": 1451,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Nalgonda",
+   "Confirmed": 4019,
+   "Active": 4019,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Narayanpet",
+   "Confirmed": 839,
+   "Active": 839,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Nirmal",
+   "Confirmed": 991,
+   "Active": 991,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Nizamabad",
+   "Confirmed": 2867,
+   "Active": 2867,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Peddapalli",
+   "Confirmed": 2908,
+   "Active": 2908,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Rajanna Sircilla",
+   "Confirmed": 1687,
+   "Active": 1687,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Ranga Reddy",
+   "Confirmed": 12477,
+   "Active": 12477,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Sangareddy",
+   "Confirmed": 4111,
+   "Active": 4111,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Siddipet",
+   "Confirmed": 2852,
+   "Active": 2852,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Suryapet",
+   "Confirmed": 2299,
+   "Active": 2299,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Unknown",
+   "Confirmed": 674953,
+   "Active": -158389,
+   "Recovered": 829250,
+   "Deceased": 4092
+ },
+ {
+   "State": "Telangana",
+   "District": "Vikarabad",
+   "Confirmed": 1581,
+   "Active": 1581,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Wanaparthy",
+   "Confirmed": 1353,
+   "Active": 1353,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Warangal Rural",
+   "Confirmed": 1465,
+   "Active": 1465,
+   "Recovered": 0,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Warangal Urban",
+   "Confirmed": 4784,
+   "Active": 4754,
+   "Recovered": 30,
+   "Deceased": 0
+ },
+ {
+   "State": "Telangana",
+   "District": "Yadadri Bhuvanagiri",
+   "Confirmed": 2561,
+   "Active": 2469,
+   "Recovered": 92,
+   "Deceased": 0
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Airport Quarantine",
+   "Confirmed": 2540,
+   "Active": -16,
+   "Recovered": 2554,
+   "Deceased": 2
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Ariyalur",
+   "Confirmed": 20260,
+   "Active": 28,
+   "Recovered": 19965,
+   "Deceased": 267
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Chengalpattu",
+   "Confirmed": 251810,
+   "Active": -267,
+   "Recovered": 249423,
+   "Deceased": 2654
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Chennai",
+   "Confirmed": 794438,
+   "Active": 6580,
+   "Recovered": 778784,
+   "Deceased": 9074
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Coimbatore",
+   "Confirmed": 339188,
+   "Active": -589,
+   "Recovered": 337158,
+   "Deceased": 2619
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Cuddalore",
+   "Confirmed": 75863,
+   "Active": 128,
+   "Recovered": 74838,
+   "Deceased": 897
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Dharmapuri",
+   "Confirmed": 36607,
+   "Active": -184,
+   "Recovered": 36508,
+   "Deceased": 283
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Dindigul",
+   "Confirmed": 39189,
+   "Active": 239,
+   "Recovered": 38285,
+   "Deceased": 665
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Erode",
+   "Confirmed": 136933,
+   "Active": 891,
+   "Recovered": 135307,
+   "Deceased": 735
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Kallakurichi",
+   "Confirmed": 36793,
+   "Active": -134,
+   "Recovered": 36713,
+   "Deceased": 214
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Kancheepuram",
+   "Confirmed": 98282,
+   "Active": 163,
+   "Recovered": 96810,
+   "Deceased": 1309
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Kanyakumari",
+   "Confirmed": 90038,
+   "Active": 89,
+   "Recovered": 88863,
+   "Deceased": 1086
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Karur",
+   "Confirmed": 30140,
+   "Active": -84,
+   "Recovered": 29851,
+   "Deceased": 373
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Krishnagiri",
+   "Confirmed": 62049,
+   "Active": -82,
+   "Recovered": 61760,
+   "Deceased": 371
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Madurai",
+   "Confirmed": 93143,
+   "Active": 110,
+   "Recovered": 91799,
+   "Deceased": 1234
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Mayiladuthurai",
+   "Confirmed": 47097,
+   "Active": -58,
+   "Recovered": 46572,
+   "Deceased": 583
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Nagapattinam",
+   "Confirmed": 26146,
+   "Active": 163,
+   "Recovered": 25608,
+   "Deceased": 375
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Namakkal",
+   "Confirmed": 69524,
+   "Active": -114,
+   "Recovered": 69105,
+   "Deceased": 533
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Nilgiris",
+   "Confirmed": 42795,
+   "Active": -40,
+   "Recovered": 42610,
+   "Deceased": 225
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Other State",
+   "Confirmed": 1,
+   "Active": 0,
+   "Recovered": 0,
+   "Deceased": 1
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Perambalur",
+   "Confirmed": 14838,
+   "Active": -49,
+   "Recovered": 14638,
+   "Deceased": 249
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Pudukkottai",
+   "Confirmed": 35192,
+   "Active": -9,
+   "Recovered": 34775,
+   "Deceased": 426
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Railway Quarantine",
+   "Confirmed": 430,
+   "Active": 1,
+   "Recovered": 429,
+   "Deceased": 0
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Ramanathapuram",
+   "Confirmed": 24928,
+   "Active": -56,
+   "Recovered": 24615,
+   "Deceased": 369
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Ranipet",
+   "Confirmed": 56205,
+   "Active": -241,
+   "Recovered": 55660,
+   "Deceased": 786
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Salem",
+   "Confirmed": 130876,
+   "Active": -511,
+   "Recovered": 129622,
+   "Deceased": 1765
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Sivaganga",
+   "Confirmed": 25209,
+   "Active": 166,
+   "Recovered": 24824,
+   "Deceased": 219
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tenkasi",
+   "Confirmed": 33761,
+   "Active": -159,
+   "Recovered": 33389,
+   "Deceased": 490
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thanjavur",
+   "Confirmed": 93388,
+   "Active": -73,
+   "Recovered": 92420,
+   "Deceased": 1041
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Theni",
+   "Confirmed": 51687,
+   "Active": -36,
+   "Recovered": 51191,
+   "Deceased": 532
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thiruvallur",
+   "Confirmed": 154069,
+   "Active": 741,
+   "Recovered": 151389,
+   "Deceased": 1939
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thiruvarur",
+   "Confirmed": 48782,
+   "Active": -125,
+   "Recovered": 48436,
+   "Deceased": 471
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thoothukkudi",
+   "Confirmed": 67268,
+   "Active": 74,
+   "Recovered": 66747,
+   "Deceased": 447
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tiruchirappalli",
+   "Confirmed": 98140,
+   "Active": 195,
+   "Recovered": 96785,
+   "Deceased": 1160
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tirunelveli",
+   "Confirmed": 66037,
+   "Active": 154,
+   "Recovered": 65437,
+   "Deceased": 446
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tirupathur",
+   "Confirmed": 35998,
+   "Active": -69,
+   "Recovered": 35435,
+   "Deceased": 632
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tiruppur",
+   "Confirmed": 131192,
+   "Active": -815,
+   "Recovered": 130955,
+   "Deceased": 1052
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tiruvannamalai",
+   "Confirmed": 67872,
+   "Active": -461,
+   "Recovered": 67647,
+   "Deceased": 686
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Unknown",
+   "Confirmed": 2311,
+   "Active": -693,
+   "Recovered": 3003,
+   "Deceased": 1
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Vellore",
+   "Confirmed": 58448,
+   "Active": 392,
+   "Recovered": 56892,
+   "Deceased": 1164
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Viluppuram",
+   "Confirmed": 56090,
+   "Active": -189,
+   "Recovered": 55912,
+   "Deceased": 367
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Virudhunagar",
+   "Confirmed": 59228,
+   "Active": -79,
+   "Recovered": 58752,
+   "Deceased": 555
+ },
+ {
+   "State": "Tripura",
+   "District": "Dhalai",
+   "Confirmed": 8508,
+   "Active": 196,
+   "Recovered": 8272,
+   "Deceased": 39
+ },
+ {
+   "State": "Tripura",
+   "District": "Gomati",
+   "Confirmed": 9648,
+   "Active": 113,
+   "Recovered": 9447,
+   "Deceased": 84
+ },
+ {
+   "State": "Tripura",
+   "District": "Khowai",
+   "Confirmed": 5151,
+   "Active": 29,
+   "Recovered": 5067,
+   "Deceased": 55
+ },
+ {
+   "State": "Tripura",
+   "District": "North Tripura",
+   "Confirmed": 8660,
+   "Active": -36,
+   "Recovered": 8651,
+   "Deceased": 38
+ },
+ {
+   "State": "Tripura",
+   "District": "Sipahijala",
+   "Confirmed": 7328,
+   "Active": 56,
+   "Recovered": 7187,
+   "Deceased": 84
+ },
+ {
+   "State": "Tripura",
+   "District": "South Tripura",
+   "Confirmed": 12150,
+   "Active": 120,
+   "Recovered": 11968,
+   "Deceased": 59
+ },
+ {
+   "State": "Tripura",
+   "District": "Unknown",
+   "Confirmed": 7343,
+   "Active": -1378,
+   "Recovered": 8686,
+   "Deceased": 35
+ },
+ {
+   "State": "Tripura",
+   "District": "Unokoti",
+   "Confirmed": 10080,
+   "Active": 135,
+   "Recovered": 9869,
+   "Deceased": 72
+ },
+ {
+   "State": "Tripura",
+   "District": "West Tripura",
+   "Confirmed": 39580,
+   "Active": 342,
+   "Recovered": 38730,
+   "Deceased": 465
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Agra",
+   "Confirmed": 25934,
+   "Active": 167,
+   "Recovered": 25310,
+   "Deceased": 457
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Aligarh",
+   "Confirmed": 21365,
+   "Active": 82,
+   "Recovered": 21175,
+   "Deceased": 108
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ambedkar Nagar",
+   "Confirmed": 5049,
+   "Active": 12,
+   "Recovered": 4885,
+   "Deceased": 152
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Amethi",
+   "Confirmed": 9974,
+   "Active": 3,
+   "Recovered": 9828,
+   "Deceased": 143
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Amroha",
+   "Confirmed": 16635,
+   "Active": 20,
+   "Recovered": 16412,
+   "Deceased": 203
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Auraiya",
+   "Confirmed": 10099,
+   "Active": 9,
+   "Recovered": 9887,
+   "Deceased": 203
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ayodhya",
+   "Confirmed": 16934,
+   "Active": 15,
+   "Recovered": 16629,
+   "Deceased": 290
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Azamgarh",
+   "Confirmed": 17918,
+   "Active": 15,
+   "Recovered": 17675,
+   "Deceased": 228
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Baghpat",
+   "Confirmed": 9175,
+   "Active": 43,
+   "Recovered": 8991,
+   "Deceased": 141
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bahraich",
+   "Confirmed": 11555,
+   "Active": 6,
+   "Recovered": 11371,
+   "Deceased": 178
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ballia",
+   "Confirmed": 21618,
+   "Active": 8,
+   "Recovered": 21376,
+   "Deceased": 234
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Balrampur",
+   "Confirmed": 7495,
+   "Active": 3,
+   "Recovered": 7354,
+   "Deceased": 138
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Banda",
+   "Confirmed": 10997,
+   "Active": 7,
+   "Recovered": 10832,
+   "Deceased": 158
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Barabanki",
+   "Confirmed": 19874,
+   "Active": 20,
+   "Recovered": 19629,
+   "Deceased": 225
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bareilly",
+   "Confirmed": 44081,
+   "Active": 53,
+   "Recovered": 43651,
+   "Deceased": 377
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Basti",
+   "Confirmed": 11728,
+   "Active": 13,
+   "Recovered": 11385,
+   "Deceased": 330
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bhadohi",
+   "Confirmed": 7720,
+   "Active": 0,
+   "Recovered": 7557,
+   "Deceased": 163
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bijnor",
+   "Confirmed": 14816,
+   "Active": 22,
+   "Recovered": 14668,
+   "Deceased": 126
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Budaun",
+   "Confirmed": 14952,
+   "Active": 10,
+   "Recovered": 14844,
+   "Deceased": 98
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bulandshahr",
+   "Confirmed": 20273,
+   "Active": 58,
+   "Recovered": 19972,
+   "Deceased": 243
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Chandauli",
+   "Confirmed": 16229,
+   "Active": 21,
+   "Recovered": 15852,
+   "Deceased": 356
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Chitrakoot",
+   "Confirmed": 7115,
+   "Active": 5,
+   "Recovered": 7031,
+   "Deceased": 79
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Deoria",
+   "Confirmed": 20239,
+   "Active": 16,
+   "Recovered": 20003,
+   "Deceased": 220
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Etah",
+   "Confirmed": 9980,
+   "Active": 13,
+   "Recovered": 9868,
+   "Deceased": 99
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Etawah",
+   "Confirmed": 13940,
+   "Active": 7,
+   "Recovered": 13640,
+   "Deceased": 293
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Farrukhabad",
+   "Confirmed": 10357,
+   "Active": 10,
+   "Recovered": 10153,
+   "Deceased": 194
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Fatehpur",
+   "Confirmed": 6820,
+   "Active": 7,
+   "Recovered": 6674,
+   "Deceased": 139
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Firozabad",
+   "Confirmed": 8731,
+   "Active": 11,
+   "Recovered": 8585,
+   "Deceased": 135
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Gautam Buddha Nagar",
+   "Confirmed": 64074,
+   "Active": 697,
+   "Recovered": 62910,
+   "Deceased": 467
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ghaziabad",
+   "Confirmed": 56280,
+   "Active": 599,
+   "Recovered": 55220,
+   "Deceased": 461
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ghazipur",
+   "Confirmed": 21655,
+   "Active": 13,
+   "Recovered": 21360,
+   "Deceased": 282
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Gonda",
+   "Confirmed": 12287,
+   "Active": 5,
+   "Recovered": 12016,
+   "Deceased": 266
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Gorakhpur",
+   "Confirmed": 59511,
+   "Active": 75,
+   "Recovered": 58588,
+   "Deceased": 848
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hamirpur",
+   "Confirmed": 5235,
+   "Active": 3,
+   "Recovered": 5130,
+   "Deceased": 102
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hapur",
+   "Confirmed": 12658,
+   "Active": 19,
+   "Recovered": 12422,
+   "Deceased": 217
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hardoi",
+   "Confirmed": 13765,
+   "Active": 10,
+   "Recovered": 13406,
+   "Deceased": 349
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hathras",
+   "Confirmed": 2930,
+   "Active": 10,
+   "Recovered": 2877,
+   "Deceased": 43
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Jalaun",
+   "Confirmed": 11688,
+   "Active": 4,
+   "Recovered": 11482,
+   "Deceased": 202
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Jaunpur",
+   "Confirmed": 22599,
+   "Active": 15,
+   "Recovered": 22349,
+   "Deceased": 235
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Jhansi",
+   "Confirmed": 36608,
+   "Active": 49,
+   "Recovered": 35896,
+   "Deceased": 663
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kannauj",
+   "Confirmed": 9237,
+   "Active": 8,
+   "Recovered": 9115,
+   "Deceased": 114
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kanpur Dehat",
+   "Confirmed": 6201,
+   "Active": 3,
+   "Recovered": 6088,
+   "Deceased": 110
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kanpur Nagar",
+   "Confirmed": 83024,
+   "Active": 94,
+   "Recovered": 81025,
+   "Deceased": 1905
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kasganj",
+   "Confirmed": 4254,
+   "Active": 4,
+   "Recovered": 4197,
+   "Deceased": 53
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kaushambi",
+   "Confirmed": 4426,
+   "Active": 3,
+   "Recovered": 4353,
+   "Deceased": 70
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kushinagar",
+   "Confirmed": 15623,
+   "Active": 6,
+   "Recovered": 15389,
+   "Deceased": 228
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Lakhimpur Kheri",
+   "Confirmed": 24423,
+   "Active": 14,
+   "Recovered": 24117,
+   "Deceased": 292
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Lalitpur",
+   "Confirmed": 12748,
+   "Active": 6,
+   "Recovered": 12614,
+   "Deceased": 128
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Lucknow",
+   "Confirmed": 239416,
+   "Active": 582,
+   "Recovered": 236183,
+   "Deceased": 2651
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Maharajganj",
+   "Confirmed": 12450,
+   "Active": -9,
+   "Recovered": 12318,
+   "Deceased": 141
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mahoba",
+   "Confirmed": 4274,
+   "Active": 6,
+   "Recovered": 4182,
+   "Deceased": 86
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mainpuri",
+   "Confirmed": 10046,
+   "Active": 18,
+   "Recovered": 9846,
+   "Deceased": 182
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mathura",
+   "Confirmed": 20339,
+   "Active": 40,
+   "Recovered": 19897,
+   "Deceased": 402
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mau",
+   "Confirmed": 8339,
+   "Active": 7,
+   "Recovered": 8252,
+   "Deceased": 80
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Meerut",
+   "Confirmed": 69891,
+   "Active": 422,
+   "Recovered": 68571,
+   "Deceased": 898
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mirzapur",
+   "Confirmed": 11098,
+   "Active": 10,
+   "Recovered": 10972,
+   "Deceased": 116
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Moradabad",
+   "Confirmed": 39259,
+   "Active": 158,
+   "Recovered": 38752,
+   "Deceased": 349
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Muzaffarnagar",
+   "Confirmed": 31100,
+   "Active": 93,
+   "Recovered": 30738,
+   "Deceased": 269
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Pilibhit",
+   "Confirmed": 11033,
+   "Active": 2,
+   "Recovered": 10838,
+   "Deceased": 193
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Pratapgarh",
+   "Confirmed": 16039,
+   "Active": 1,
+   "Recovered": 15875,
+   "Deceased": 163
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Prayagraj",
+   "Confirmed": 78803,
+   "Active": 106,
+   "Recovered": 77609,
+   "Deceased": 1088
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Rae Bareli",
+   "Confirmed": 17120,
+   "Active": 16,
+   "Recovered": 16761,
+   "Deceased": 343
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Rampur",
+   "Confirmed": 11845,
+   "Active": 21,
+   "Recovered": 11676,
+   "Deceased": 148
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Saharanpur",
+   "Confirmed": 32810,
+   "Active": 81,
+   "Recovered": 32309,
+   "Deceased": 420
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sambhal",
+   "Confirmed": 9464,
+   "Active": 27,
+   "Recovered": 9331,
+   "Deceased": 106
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sant Kabir Nagar",
+   "Confirmed": 8161,
+   "Active": 2,
+   "Recovered": 8061,
+   "Deceased": 98
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Shahjahanpur",
+   "Confirmed": 20372,
+   "Active": 10,
+   "Recovered": 19918,
+   "Deceased": 444
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Shamli",
+   "Confirmed": 13038,
+   "Active": 58,
+   "Recovered": 12935,
+   "Deceased": 45
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Shrawasti",
+   "Confirmed": 4388,
+   "Active": 0,
+   "Recovered": 4353,
+   "Deceased": 35
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Siddharthnagar",
+   "Confirmed": 9382,
+   "Active": 9,
+   "Recovered": 9273,
+   "Deceased": 100
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sitapur",
+   "Confirmed": 12410,
+   "Active": 14,
+   "Recovered": 12211,
+   "Deceased": 185
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sonbhadra",
+   "Confirmed": 16821,
+   "Active": 12,
+   "Recovered": 16558,
+   "Deceased": 251
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sultanpur",
+   "Confirmed": 14922,
+   "Active": 7,
+   "Recovered": 14777,
+   "Deceased": 138
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Unnao",
+   "Confirmed": 15035,
+   "Active": 24,
+   "Recovered": 14757,
+   "Deceased": 254
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Varanasi",
+   "Confirmed": 85725,
+   "Active": 225,
+   "Recovered": 84529,
+   "Deceased": 971
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Almora",
+   "Confirmed": 16537,
+   "Active": 4343,
+   "Recovered": 11383,
+   "Deceased": 197
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Bageshwar",
+   "Confirmed": 7725,
+   "Active": 1960,
+   "Recovered": 5679,
+   "Deceased": 61
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Chamoli",
+   "Confirmed": 15089,
+   "Active": 2846,
+   "Recovered": 11976,
+   "Deceased": 63
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Champawat",
+   "Confirmed": 9480,
+   "Active": 1877,
+   "Recovered": 7360,
+   "Deceased": 54
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Dehradun",
+   "Confirmed": 148762,
+   "Active": 36254,
+   "Recovered": 108204,
+   "Deceased": 3706
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Haridwar",
+   "Confirmed": 64412,
+   "Active": 12878,
+   "Recovered": 49118,
+   "Deceased": 1040
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Nainital",
+   "Confirmed": 51970,
+   "Active": 12678,
+   "Recovered": 38190,
+   "Deceased": 968
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Pauri Garhwal",
+   "Confirmed": 22632,
+   "Active": 4917,
+   "Recovered": 16689,
+   "Deceased": 325
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Pithoragarh",
+   "Confirmed": 12868,
+   "Active": 2606,
+   "Recovered": 9970,
+   "Deceased": 184
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Rudraprayag",
+   "Confirmed": 11561,
+   "Active": 2760,
+   "Recovered": 8535,
+   "Deceased": 107
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Tehri Garhwal",
+   "Confirmed": 18234,
+   "Active": 2397,
+   "Recovered": 14827,
+   "Deceased": 110
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Udham Singh Nagar",
+   "Confirmed": 46230,
+   "Active": 8342,
+   "Recovered": 36321,
+   "Deceased": 768
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Unknown",
+   "Confirmed": 8307,
+   "Active": -91006,
+   "Recovered": 99239,
+   "Deceased": 73
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Uttarkashi",
+   "Confirmed": 14211,
+   "Active": 1352,
+   "Recovered": 12438,
+   "Deceased": 78
+ },
+ {
+   "State": "West Bengal",
+   "District": "Alipurduar",
+   "Confirmed": 18951,
+   "Active": 57,
+   "Recovered": 18784,
+   "Deceased": 110
+ },
+ {
+   "State": "West Bengal",
+   "District": "Bankura",
+   "Confirmed": 43924,
+   "Active": 61,
+   "Recovered": 43577,
+   "Deceased": 286
+ },
+ {
+   "State": "West Bengal",
+   "District": "Birbhum",
+   "Confirmed": 57744,
+   "Active": 67,
+   "Recovered": 57326,
+   "Deceased": 351
+ },
+ {
+   "State": "West Bengal",
+   "District": "Cooch Behar",
+   "Confirmed": 34004,
+   "Active": 62,
+   "Recovered": 33836,
+   "Deceased": 106
+ },
+ {
+   "State": "West Bengal",
+   "District": "Dakshin Dinajpur",
+   "Confirmed": 23097,
+   "Active": 40,
+   "Recovered": 22865,
+   "Deceased": 192
+ },
+ {
+   "State": "West Bengal",
+   "District": "Darjeeling",
+   "Confirmed": 69055,
+   "Active": 65,
+   "Recovered": 68391,
+   "Deceased": 599
+ },
+ {
+   "State": "West Bengal",
+   "District": "Hooghly",
+   "Confirmed": 107974,
+   "Active": 71,
+   "Recovered": 106785,
+   "Deceased": 1118
+ },
+ {
+   "State": "West Bengal",
+   "District": "Howrah",
+   "Confirmed": 125057,
+   "Active": 74,
+   "Recovered": 123341,
+   "Deceased": 1642
+ },
+ {
+   "State": "West Bengal",
+   "District": "Jalpaiguri",
+   "Confirmed": 49614,
+   "Active": 50,
+   "Recovered": 48916,
+   "Deceased": 648
+ },
+ {
+   "State": "West Bengal",
+   "District": "Jhargram",
+   "Confirmed": 15556,
+   "Active": 19,
+   "Recovered": 15506,
+   "Deceased": 31
+ },
+ {
+   "State": "West Bengal",
+   "District": "Kalimpong",
+   "Confirmed": 8518,
+   "Active": 11,
+   "Recovered": 8449,
+   "Deceased": 58
+ },
+ {
+   "State": "West Bengal",
+   "District": "Kolkata",
+   "Confirmed": 446986,
+   "Active": 314,
+   "Recovered": 441017,
+   "Deceased": 5655
+ },
+ {
+   "State": "West Bengal",
+   "District": "Malda",
+   "Confirmed": 44459,
+   "Active": 52,
+   "Recovered": 44208,
+   "Deceased": 199
+ },
+ {
+   "State": "West Bengal",
+   "District": "Murshidabad",
+   "Confirmed": 41645,
+   "Active": 33,
+   "Recovered": 41256,
+   "Deceased": 356
+ },
+ {
+   "State": "West Bengal",
+   "District": "Nadia",
+   "Confirmed": 87673,
+   "Active": 96,
+   "Recovered": 86633,
+   "Deceased": 944
+ },
+ {
+   "State": "West Bengal",
+   "District": "North 24 Parganas",
+   "Confirmed": 403077,
+   "Active": 233,
+   "Recovered": 397512,
+   "Deceased": 5332
+ },
+ {
+   "State": "West Bengal",
+   "District": "Other State",
+   "Confirmed": 76,
+   "Active": 10,
+   "Recovered": 63,
+   "Deceased": 3
+ },
+ {
+   "State": "West Bengal",
+   "District": "Paschim Bardhaman",
+   "Confirmed": 75653,
+   "Active": 57,
+   "Recovered": 75164,
+   "Deceased": 432
+ },
+ {
+   "State": "West Bengal",
+   "District": "Paschim Medinipur",
+   "Confirmed": 62588,
+   "Active": 64,
+   "Recovered": 61995,
+   "Deceased": 529
+ },
+ {
+   "State": "West Bengal",
+   "District": "Purba Bardhaman",
+   "Confirmed": 55456,
+   "Active": 68,
+   "Recovered": 55150,
+   "Deceased": 238
+ },
+ {
+   "State": "West Bengal",
+   "District": "Purba Medinipur",
+   "Confirmed": 67849,
+   "Active": 29,
+   "Recovered": 67379,
+   "Deceased": 441
+ },
+ {
+   "State": "West Bengal",
+   "District": "Purulia",
+   "Confirmed": 24235,
+   "Active": 26,
+   "Recovered": 24086,
+   "Deceased": 123
+ },
+ {
+   "State": "West Bengal",
+   "District": "South 24 Parganas",
+   "Confirmed": 127340,
+   "Active": 115,
+   "Recovered": 125715,
+   "Deceased": 1510
+ },
+ {
+   "State": "West Bengal",
+   "District": "Unknown",
+   "Confirmed": 102121,
+   "Active": -793,
+   "Recovered": 102569,
+   "Deceased": 345
+ },
+ {
+   "State": "West Bengal",
+   "District": "Uttar Dinajpur",
+   "Confirmed": 25148,
+   "Active": 31,
+   "Recovered": 24849,
+   "Deceased": 268
+ }
+]
